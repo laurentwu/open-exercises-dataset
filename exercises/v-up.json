@@ -1,0 +1,19 @@
+{
+  "id": "v-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

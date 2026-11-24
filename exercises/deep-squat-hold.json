@@ -1,0 +1,21 @@
+{
+  "id": "deep-squat-hold",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "adductors",
+      "calves",
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings",
+      "lower-back",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

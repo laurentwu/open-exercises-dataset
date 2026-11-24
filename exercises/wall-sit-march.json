@@ -1,0 +1,22 @@
+{
+  "id": "wall-sit-march",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abs",
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "wall-sit"
+}

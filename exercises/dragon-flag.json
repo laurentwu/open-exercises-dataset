@@ -1,0 +1,23 @@
+{
+  "id": "dragon-flag",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "hip-flexors",
+      "lats",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

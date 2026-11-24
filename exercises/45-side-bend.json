@@ -1,0 +1,21 @@
+{
+  "id": "45-side-bend",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [
+    "hyperextension-bench"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

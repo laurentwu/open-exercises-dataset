@@ -1,0 +1,17 @@
+{
+  "id": "alternating-heel-touch",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "lateral-flexion",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

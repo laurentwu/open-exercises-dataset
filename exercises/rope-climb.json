@@ -1,0 +1,23 @@
+{
+  "id": "rope-climb",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "forearms",
+      "lats"
+    ],
+    "secondary": [
+      "abs",
+      "biceps",
+      "quads",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

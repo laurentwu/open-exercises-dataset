@@ -1,0 +1,21 @@
+{
+  "id": "cable-reverse-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps",
+      "forearms"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "cable-curl"
+}

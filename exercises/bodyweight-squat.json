@@ -1,0 +1,20 @@
+{
+  "id": "bodyweight-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

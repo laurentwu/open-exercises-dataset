@@ -1,0 +1,21 @@
+{
+  "id": "depth-jump",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [
+    "box"
+  ],
+  "muscles": {
+    "primary": [
+      "calves",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "reverse-pec-deck-fly",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "rear-delts"
+    ],
+    "secondary": [
+      "traps",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

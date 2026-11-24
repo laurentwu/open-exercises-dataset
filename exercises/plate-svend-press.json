@@ -1,0 +1,23 @@
+{
+  "id": "plate-svend-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "kettlebell-turkish-get-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "unilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "front-delts",
+      "glutes"
+    ],
+    "secondary": [
+      "obliques",
+      "quads",
+      "rotator-cuff",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

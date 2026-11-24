@@ -1,0 +1,23 @@
+{
+  "id": "machine-seated-leg-raise-crunch",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "machine-crunch"
+}

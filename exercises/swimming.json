@@ -1,0 +1,22 @@
+{
+  "id": "swimming",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "lats"
+    ],
+    "secondary": [
+      "abs",
+      "chest",
+      "glutes",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "distance",
+    "duration"
+  ]
+}

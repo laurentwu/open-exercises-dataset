@@ -1,0 +1,19 @@
+{
+  "id": "smith-machine-behind-the-back-wrist-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "smith-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "suspension-face-pull",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "suspension-trainer"
+  ],
+  "muscles": {
+    "primary": [
+      "rear-delts",
+      "rotator-cuff",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "band-step-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "lunge",
+  "laterality": "unilateral",
+  "equipment": [
+    "box",
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "step-up"
+}

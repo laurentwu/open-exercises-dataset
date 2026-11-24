@@ -1,0 +1,19 @@
+{
+  "id": "upward-facing-dog",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs",
+      "chest"
+    ],
+    "secondary": [
+      "front-delts",
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

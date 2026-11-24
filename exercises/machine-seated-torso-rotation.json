@@ -1,0 +1,22 @@
+{
+  "id": "machine-seated-torso-rotation",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "trunk-rotation",
+  "laterality": "unilateral",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

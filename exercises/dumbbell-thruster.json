@@ -1,0 +1,25 @@
+{
+  "id": "dumbbell-thruster",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "quads",
+      "glutes",
+      "front-delts"
+    ],
+    "secondary": [
+      "triceps",
+      "abs"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-thruster"
+}

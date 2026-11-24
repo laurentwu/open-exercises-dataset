@@ -1,0 +1,23 @@
+{
+  "id": "battle-rope-slam",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [
+    "battle-rope"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "front-delts",
+      "lats"
+    ],
+    "secondary": [
+      "forearms",
+      "glutes",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

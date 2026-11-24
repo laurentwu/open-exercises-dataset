@@ -1,0 +1,20 @@
+{
+  "id": "prone-scorpion",
+  "category": "mobility",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hip-flexors",
+      "lower-back",
+      "obliques"
+    ],
+    "secondary": [
+      "chest",
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

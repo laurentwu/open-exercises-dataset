@@ -1,0 +1,20 @@
+{
+  "id": "barbell-behind-the-back-wrist-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-wrist-curl"
+}

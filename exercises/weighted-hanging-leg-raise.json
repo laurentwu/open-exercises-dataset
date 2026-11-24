@@ -1,0 +1,25 @@
+{
+  "id": "weighted-hanging-leg-raise",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell",
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "forearms",
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "hanging-leg-raise"
+}

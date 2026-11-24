@@ -1,0 +1,22 @@
+{
+  "id": "barbell-wide-grip-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-curl"
+}

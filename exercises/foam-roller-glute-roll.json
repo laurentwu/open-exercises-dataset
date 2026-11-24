@@ -1,0 +1,19 @@
+{
+  "id": "foam-roller-glute-roll",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "abductors"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

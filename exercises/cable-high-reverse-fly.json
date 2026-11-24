@@ -1,0 +1,22 @@
+{
+  "id": "cable-high-reverse-fly",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "rear-delts"
+    ],
+    "secondary": [
+      "traps",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

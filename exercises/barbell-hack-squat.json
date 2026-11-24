@@ -1,0 +1,25 @@
+{
+  "id": "barbell-hack-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "forearms",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

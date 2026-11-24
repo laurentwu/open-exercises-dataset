@@ -1,0 +1,25 @@
+{
+  "id": "cable-single-arm-bent-over-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "unilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "lower-back",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

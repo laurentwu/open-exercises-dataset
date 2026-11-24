@@ -1,0 +1,22 @@
+{
+  "id": "feet-elevated-glute-bridge",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "glute-bridge"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "barbell-side-bend",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "lateral-flexion",
+  "laterality": "alternating",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

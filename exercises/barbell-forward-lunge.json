@@ -1,0 +1,25 @@
+{
+  "id": "barbell-forward-lunge",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "lunge",
+  "laterality": "alternating",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "forward-lunge"
+}

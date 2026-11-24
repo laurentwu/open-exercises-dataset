@@ -1,0 +1,18 @@
+{
+  "id": "quadruped-thoracic-rotation",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "obliques",
+      "upper-back"
+    ],
+    "secondary": [
+      "chest"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

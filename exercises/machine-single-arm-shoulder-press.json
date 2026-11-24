@@ -1,0 +1,25 @@
+{
+  "id": "machine-single-arm-shoulder-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "unilateral",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "side-delts"
+    ],
+    "secondary": [
+      "traps",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "machine-shoulder-press"
+}

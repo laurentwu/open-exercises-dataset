@@ -1,0 +1,19 @@
+{
+  "id": "barbell-standing-calf-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

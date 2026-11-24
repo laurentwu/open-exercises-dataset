@@ -1,0 +1,20 @@
+{
+  "id": "shoulder-car",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "rotator-cuff",
+      "side-delts"
+    ],
+    "secondary": [
+      "rear-delts",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

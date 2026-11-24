@@ -1,0 +1,21 @@
+{
+  "id": "plate-halo",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "rotator-cuff"
+    ],
+    "secondary": [
+      "triceps",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

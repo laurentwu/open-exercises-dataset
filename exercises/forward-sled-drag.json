@@ -1,0 +1,24 @@
+{
+  "id": "forward-sled-drag",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "alternating",
+  "equipment": [
+    "sled"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings",
+      "quads"
+    ],
+    "secondary": [
+      "abs",
+      "calves"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

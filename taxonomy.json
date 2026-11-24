@@ -1,0 +1,57 @@
+{
+  "regions": ["chest", "back", "shoulders", "arms", "core", "legs", "neck"],
+  "muscles": {
+    "chest": { "region": "chest" },
+    "serratus": { "region": "chest" },
+    "front-delts": { "region": "shoulders" },
+    "side-delts": { "region": "shoulders" },
+    "rear-delts": { "region": "shoulders" },
+    "rotator-cuff": { "region": "shoulders" },
+    "lats": { "region": "back" },
+    "upper-back": { "region": "back" },
+    "traps": { "region": "back" },
+    "lower-back": { "region": "back" },
+    "biceps": { "region": "arms" },
+    "triceps": { "region": "arms" },
+    "forearms": { "region": "arms" },
+    "abs": { "region": "core" },
+    "obliques": { "region": "core" },
+    "hip-flexors": { "region": "legs" },
+    "glutes": { "region": "legs" },
+    "abductors": { "region": "legs" },
+    "adductors": { "region": "legs" },
+    "quads": { "region": "legs" },
+    "hamstrings": { "region": "legs" },
+    "calves": { "region": "legs" },
+    "shins": { "region": "legs" },
+    "neck": { "region": "neck" }
+  },
+  "equipment": [
+    "barbell", "ez-bar", "trap-bar", "dumbbell", "kettlebell", "weight-plate",
+    "medicine-ball", "stability-ball", "bosu-ball", "resistance-band",
+    "cable-machine", "smith-machine", "machine",
+    "bench", "adjustable-bench", "preacher-bench", "hyperextension-bench",
+    "pull-up-bar", "dip-station", "gymnastic-rings", "suspension-trainer",
+    "box", "ab-wheel", "foam-roller", "jump-rope", "battle-rope",
+    "sled", "tire", "sledgehammer", "sandbag",
+    "treadmill", "stationary-bike", "rowing-machine", "elliptical", "stair-climber", "ski-erg", "arm-ergometer"
+  ],
+  "categories": ["strength", "cardio", "plyometrics", "stretching", "mobility"],
+  "mechanics": ["compound", "isolation"],
+  "patterns": [
+    "horizontal-push", "vertical-push", "horizontal-pull", "vertical-pull",
+    "squat", "hinge", "lunge", "carry",
+    "trunk-flexion", "trunk-rotation", "lateral-flexion",
+    "anti-extension", "anti-rotation", "anti-lateral-flexion"
+  ],
+  "laterality": ["bilateral", "unilateral", "alternating"],
+  "metrics": ["weight", "reps", "duration", "distance"],
+  "metricSets": [
+    ["weight", "reps"],
+    ["reps"],
+    ["duration"],
+    ["weight", "duration"],
+    ["distance", "duration"],
+    ["weight", "distance"]
+  ]
+}

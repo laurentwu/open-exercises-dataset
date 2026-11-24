@@ -1,0 +1,19 @@
+{
+  "id": "jumping-lunge",
+  "category": "plyometrics",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

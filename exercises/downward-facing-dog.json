@@ -1,0 +1,18 @@
+{
+  "id": "downward-facing-dog",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves",
+      "hamstrings"
+    ],
+    "secondary": [
+      "lats"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

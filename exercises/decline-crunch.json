@@ -1,0 +1,22 @@
+{
+  "id": "decline-crunch",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "adjustable-bench"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "crunch"
+}

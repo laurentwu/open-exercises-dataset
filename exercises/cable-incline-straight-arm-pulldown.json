@@ -1,0 +1,24 @@
+{
+  "id": "cable-incline-straight-arm-pulldown",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "adjustable-bench",
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "chest",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "cable-straight-arm-pulldown"
+}

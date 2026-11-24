@@ -1,0 +1,27 @@
+{
+  "id": "tire-flip",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "tire"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings",
+      "quads"
+    ],
+    "secondary": [
+      "forearms",
+      "front-delts",
+      "lower-back",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

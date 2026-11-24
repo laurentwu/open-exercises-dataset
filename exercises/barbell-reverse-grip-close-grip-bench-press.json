@@ -1,0 +1,25 @@
+{
+  "id": "barbell-reverse-grip-close-grip-bench-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell",
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "triceps"
+    ],
+    "secondary": [
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-bench-press"
+}

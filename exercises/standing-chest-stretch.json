@@ -1,0 +1,17 @@
+{
+  "id": "standing-chest-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

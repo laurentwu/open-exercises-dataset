@@ -1,0 +1,23 @@
+{
+  "id": "dumbbell-cuban-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "rotator-cuff",
+      "side-delts"
+    ],
+    "secondary": [
+      "traps",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "bodyweight-standing-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "lats",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

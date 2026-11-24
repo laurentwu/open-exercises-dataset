@@ -1,0 +1,24 @@
+{
+  "id": "barbell-front-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

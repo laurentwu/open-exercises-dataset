@@ -1,0 +1,19 @@
+{
+  "id": "single-leg-balance",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": [
+      "abductors",
+      "glutes",
+      "shins"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

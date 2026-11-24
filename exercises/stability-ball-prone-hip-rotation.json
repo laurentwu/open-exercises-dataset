@@ -1,0 +1,20 @@
+{
+  "id": "stability-ball-prone-hip-rotation",
+  "category": "mobility",
+  "laterality": "alternating",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "abductors",
+      "glutes"
+    ],
+    "secondary": [
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

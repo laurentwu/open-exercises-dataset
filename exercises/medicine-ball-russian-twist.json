@@ -1,0 +1,23 @@
+{
+  "id": "medicine-ball-russian-twist",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-rotation",
+  "laterality": "alternating",
+  "equipment": [
+    "medicine-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "russian-twist"
+}

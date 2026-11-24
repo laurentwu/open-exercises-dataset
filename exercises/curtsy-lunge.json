@@ -1,0 +1,22 @@
+{
+  "id": "curtsy-lunge",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "lunge",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abductors",
+      "adductors",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "hollow-body-hold",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "hip-flexors",
+      "obliques",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

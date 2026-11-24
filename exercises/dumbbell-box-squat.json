@@ -1,0 +1,26 @@
+{
+  "id": "dumbbell-box-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-squat"
+}

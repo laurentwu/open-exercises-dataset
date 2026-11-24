@@ -1,0 +1,22 @@
+{
+  "id": "barbell-kneeling-jump-squat",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "jump-squat"
+}

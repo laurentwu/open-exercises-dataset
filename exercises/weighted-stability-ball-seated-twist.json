@@ -1,0 +1,23 @@
+{
+  "id": "weighted-stability-ball-seated-twist",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "trunk-rotation",
+  "laterality": "alternating",
+  "equipment": [
+    "stability-ball",
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

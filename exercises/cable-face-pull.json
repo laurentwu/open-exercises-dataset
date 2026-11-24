@@ -1,0 +1,25 @@
+{
+  "id": "cable-face-pull",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "rear-delts",
+      "rotator-cuff",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

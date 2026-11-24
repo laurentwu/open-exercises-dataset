@@ -1,0 +1,21 @@
+{
+  "id": "cable-shrug",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "traps"
+    ],
+    "secondary": [
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

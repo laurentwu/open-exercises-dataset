@@ -1,0 +1,23 @@
+{
+  "id": "dumbbell-stability-ball-single-arm-fly",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "dumbbell",
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-fly"
+}

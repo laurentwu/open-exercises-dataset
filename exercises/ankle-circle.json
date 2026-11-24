@@ -1,0 +1,16 @@
+{
+  "id": "ankle-circle",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves",
+      "shins"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

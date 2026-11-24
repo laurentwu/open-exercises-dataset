@@ -1,0 +1,23 @@
+{
+  "id": "cable-single-arm-preacher-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "cable-machine",
+    "preacher-bench"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "cable-preacher-curl"
+}

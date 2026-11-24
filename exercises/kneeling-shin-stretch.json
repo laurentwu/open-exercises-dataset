@@ -1,0 +1,17 @@
+{
+  "id": "kneeling-shin-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "shins"
+    ],
+    "secondary": [
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "dumbbell-hammer-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps",
+      "forearms"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "shadowboxing-hook",
+  "category": "cardio",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "obliques"
+    ],
+    "secondary": [
+      "chest",
+      "glutes",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

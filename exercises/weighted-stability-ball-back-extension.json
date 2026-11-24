@@ -1,0 +1,25 @@
+{
+  "id": "weighted-stability-ball-back-extension",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "stability-ball",
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "lower-back"
+    ],
+    "secondary": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "back-extension"
+}

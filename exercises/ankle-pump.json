@@ -1,0 +1,16 @@
+{
+  "id": "ankle-pump",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves",
+      "shins"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

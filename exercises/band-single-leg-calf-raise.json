@@ -1,0 +1,19 @@
+{
+  "id": "band-single-leg-calf-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "band-standing-calf-raise"
+}

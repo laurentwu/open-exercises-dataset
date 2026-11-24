@@ -1,0 +1,22 @@
+{
+  "id": "hollow-body-rock",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "hip-flexors",
+      "obliques",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "hollow-body-hold"
+}

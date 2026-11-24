@@ -1,0 +1,21 @@
+{
+  "id": "impossible-dip",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "dip-station"
+  ],
+  "muscles": {
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

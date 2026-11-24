@@ -1,0 +1,26 @@
+{
+  "id": "kettlebell-alternating-hang-clean",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "alternating",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "forearms",
+      "quads",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "kettlebell-hang-clean"
+}

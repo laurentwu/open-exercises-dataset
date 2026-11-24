@@ -1,0 +1,21 @@
+{
+  "id": "plank-shoulder-tap",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-rotation",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs",
+      "obliques"
+    ],
+    "secondary": [
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "plank"
+}

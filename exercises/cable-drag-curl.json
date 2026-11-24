@@ -1,0 +1,23 @@
+{
+  "id": "cable-drag-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "cable-curl"
+}

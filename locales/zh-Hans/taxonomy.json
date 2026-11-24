@@ -1,0 +1,33 @@
+{
+  "regions": { "chest": "胸", "back": "背", "shoulders": "肩", "arms": "手臂", "core": "核心", "legs": "腿臀", "neck": "颈" },
+  "muscles": {
+    "chest": "胸肌", "serratus": "前锯肌",
+    "front-delts": "三角肌前束", "side-delts": "三角肌中束", "rear-delts": "三角肌后束", "rotator-cuff": "肩袖",
+    "lats": "背阔肌", "upper-back": "上背", "traps": "斜方肌上部", "lower-back": "下背",
+    "biceps": "肱二头肌", "triceps": "肱三头肌", "forearms": "前臂",
+    "abs": "腹直肌", "obliques": "腹斜肌",
+    "hip-flexors": "屈髋肌", "glutes": "臀肌", "abductors": "髋外展肌", "adductors": "髋内收肌",
+    "quads": "股四头肌", "hamstrings": "腘绳肌", "calves": "小腿三头肌", "shins": "胫骨前肌", "neck": "颈部肌群"
+  },
+  "equipment": {
+    "barbell": "杠铃", "ez-bar": "EZ 曲杆", "trap-bar": "六角杠", "dumbbell": "哑铃", "kettlebell": "壶铃", "weight-plate": "杠铃片",
+    "medicine-ball": "药球", "stability-ball": "健身球", "bosu-ball": "波速球", "resistance-band": "弹力带",
+    "cable-machine": "绳索器械", "smith-machine": "史密斯机", "machine": "固定器械",
+    "bench": "训练凳", "adjustable-bench": "可调训练凳", "preacher-bench": "牧师凳", "hyperextension-bench": "罗马椅",
+    "pull-up-bar": "单杠", "dip-station": "双杠", "gymnastic-rings": "吊环", "suspension-trainer": "悬挂训练带",
+    "box": "跳箱", "ab-wheel": "健腹轮", "foam-roller": "泡沫轴", "jump-rope": "跳绳", "battle-rope": "战绳",
+    "sled": "雪橇", "tire": "轮胎", "sledgehammer": "大锤", "sandbag": "沙袋",
+    "treadmill": "跑步机", "stationary-bike": "健身车", "rowing-machine": "划船机", "elliptical": "椭圆机",
+    "stair-climber": "爬楼机", "ski-erg": "滑雪机", "arm-ergometer": "上肢功率车"
+  },
+  "categories": { "strength": "力量", "cardio": "有氧", "plyometrics": "跳跃爆发", "stretching": "拉伸", "mobility": "灵活性" },
+  "mechanics": { "compound": "复合动作", "isolation": "孤立动作" },
+  "patterns": {
+    "horizontal-push": "水平推", "vertical-push": "垂直推", "horizontal-pull": "水平拉", "vertical-pull": "垂直拉",
+    "squat": "蹲", "hinge": "髋铰链", "lunge": "弓步", "carry": "负重行走",
+    "trunk-flexion": "躯干屈曲", "trunk-rotation": "躯干旋转", "lateral-flexion": "躯干侧屈",
+    "anti-extension": "抗伸展", "anti-rotation": "抗旋转", "anti-lateral-flexion": "抗侧屈"
+  },
+  "laterality": { "bilateral": "双侧", "unilateral": "单侧", "alternating": "左右交替" },
+  "metrics": { "weight": "重量", "reps": "次数", "duration": "时长", "distance": "距离" }
+}

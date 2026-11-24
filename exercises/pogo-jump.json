@@ -1,0 +1,18 @@
+{
+  "id": "pogo-jump",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": [
+      "quads",
+      "shins"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "squat-thrust",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "chest",
+      "front-delts",
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "knee-to-wall-ankle-mobilization",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": [
+      "shins"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

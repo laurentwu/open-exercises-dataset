@@ -1,0 +1,24 @@
+{
+  "id": "suspension-bulgarian-split-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "lunge",
+  "laterality": "unilateral",
+  "equipment": [
+    "suspension-trainer"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "bulgarian-split-squat"
+}

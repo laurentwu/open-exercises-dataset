@@ -1,0 +1,27 @@
+{
+  "id": "barbell-snatch",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings",
+      "quads"
+    ],
+    "secondary": [
+      "front-delts",
+      "lower-back",
+      "traps",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

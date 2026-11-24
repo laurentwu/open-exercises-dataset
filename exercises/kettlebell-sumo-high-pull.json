@@ -1,0 +1,26 @@
+{
+  "id": "kettlebell-sumo-high-pull",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings",
+      "traps"
+    ],
+    "secondary": [
+      "lower-back",
+      "quads",
+      "side-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

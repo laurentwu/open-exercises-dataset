@@ -1,0 +1,19 @@
+{
+  "id": "stability-ball-lat-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

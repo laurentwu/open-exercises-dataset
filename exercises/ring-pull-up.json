@@ -1,0 +1,25 @@
+{
+  "id": "ring-pull-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "gymnastic-rings"
+  ],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "forearms",
+      "rear-delts",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "pull-up"
+}

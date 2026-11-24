@@ -1,0 +1,23 @@
+{
+  "id": "dumbbell-side-bend",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "forearms",
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

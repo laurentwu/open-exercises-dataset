@@ -1,0 +1,20 @@
+{
+  "id": "single-leg-extension",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "leg-extension"
+}

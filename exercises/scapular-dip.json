@@ -1,0 +1,20 @@
+{
+  "id": "scapular-dip",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "dip-station"
+  ],
+  "muscles": {
+    "primary": [
+      "traps"
+    ],
+    "secondary": [
+      "lats"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "id": "quadriceps-set",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

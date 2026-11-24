@@ -1,0 +1,23 @@
+{
+  "id": "band-glute-bridge",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "abductors",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "glute-bridge"
+}

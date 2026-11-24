@@ -1,0 +1,24 @@
+{
+  "id": "barbell-wide-grip-upright-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "side-delts",
+      "traps"
+    ],
+    "secondary": [
+      "biceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-upright-row"
+}

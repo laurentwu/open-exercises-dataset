@@ -1,0 +1,20 @@
+{
+  "id": "dumbbell-single-arm-forearm-rotation",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

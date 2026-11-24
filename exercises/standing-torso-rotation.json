@@ -1,0 +1,19 @@
+{
+  "id": "standing-torso-rotation",
+  "category": "mobility",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "obliques",
+      "upper-back"
+    ],
+    "secondary": [
+      "chest",
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

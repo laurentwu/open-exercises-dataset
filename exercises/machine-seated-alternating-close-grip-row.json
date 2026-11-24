@@ -1,0 +1,25 @@
+{
+  "id": "machine-seated-alternating-close-grip-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "alternating",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "machine-seated-row"
+}

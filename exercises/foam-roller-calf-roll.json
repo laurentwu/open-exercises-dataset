@@ -1,0 +1,17 @@
+{
+  "id": "foam-roller-calf-roll",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "treadmill-incline-walk",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [
+    "treadmill"
+  ],
+  "muscles": {
+    "primary": [
+      "calves",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "distance",
+    "duration"
+  ],
+  "variantOf": "walking"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "nordic-hamstring-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

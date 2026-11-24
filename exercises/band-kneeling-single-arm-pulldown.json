@@ -1,0 +1,23 @@
+{
+  "id": "band-kneeling-single-arm-pulldown",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "obliques",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

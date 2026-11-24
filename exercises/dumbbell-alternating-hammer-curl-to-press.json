@@ -1,0 +1,24 @@
+{
+  "id": "dumbbell-alternating-hammer-curl-to-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "alternating",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps",
+      "front-delts"
+    ],
+    "secondary": [
+      "forearms",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

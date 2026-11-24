@@ -1,0 +1,20 @@
+{
+  "id": "band-glute-kickback",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

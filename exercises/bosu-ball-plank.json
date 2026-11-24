@@ -1,0 +1,24 @@
+{
+  "id": "bosu-ball-plank",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "bosu-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "front-delts",
+      "glutes",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ],
+  "variantOf": "plank"
+}

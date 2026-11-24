@@ -1,0 +1,25 @@
+{
+  "id": "dumbbell-suitcase-carry",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "carry",
+  "laterality": "unilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms",
+      "obliques"
+    ],
+    "secondary": [
+      "glutes",
+      "quads",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

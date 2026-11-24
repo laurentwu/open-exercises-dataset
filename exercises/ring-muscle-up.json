@@ -1,0 +1,26 @@
+{
+  "id": "ring-muscle-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "gymnastic-rings"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "biceps",
+      "chest",
+      "forearms",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "muscle-up"
+}

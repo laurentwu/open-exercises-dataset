@@ -1,0 +1,22 @@
+{
+  "id": "push-up-plus",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "chest",
+      "serratus"
+    ],
+    "secondary": [
+      "front-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "push-up"
+}

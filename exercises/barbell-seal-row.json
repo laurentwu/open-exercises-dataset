@@ -1,0 +1,26 @@
+{
+  "id": "barbell-seal-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell",
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-bent-over-row"
+}

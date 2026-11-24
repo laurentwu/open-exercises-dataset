@@ -1,0 +1,23 @@
+{
+  "id": "band-bicycle-crunch",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-rotation",
+  "laterality": "alternating",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "obliques"
+    ],
+    "secondary": [
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "bicycle-crunch"
+}

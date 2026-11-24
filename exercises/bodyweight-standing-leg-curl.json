@@ -1,0 +1,18 @@
+{
+  "id": "bodyweight-standing-leg-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

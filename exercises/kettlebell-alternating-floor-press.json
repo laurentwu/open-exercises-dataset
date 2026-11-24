@@ -1,0 +1,23 @@
+{
+  "id": "kettlebell-alternating-floor-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "alternating",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

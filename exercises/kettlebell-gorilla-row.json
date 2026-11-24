@@ -1,0 +1,28 @@
+{
+  "id": "kettlebell-gorilla-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "alternating",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "forearms",
+      "glutes",
+      "lower-back",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "kettlebell-bent-over-row"
+}

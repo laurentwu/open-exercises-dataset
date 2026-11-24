@@ -1,0 +1,24 @@
+{
+  "id": "kettlebell-figure-8",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "alternating",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "forearms",
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "toes-to-bar",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "forearms",
+      "hip-flexors",
+      "lats"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

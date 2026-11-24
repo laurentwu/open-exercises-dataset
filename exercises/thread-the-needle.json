@@ -1,0 +1,19 @@
+{
+  "id": "thread-the-needle",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "rear-delts",
+      "upper-back"
+    ],
+    "secondary": [
+      "lats",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

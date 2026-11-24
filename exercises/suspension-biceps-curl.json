@@ -1,0 +1,21 @@
+{
+  "id": "suspension-biceps-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "suspension-trainer"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "abs",
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

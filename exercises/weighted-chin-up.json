@@ -1,0 +1,25 @@
+{
+  "id": "weighted-chin-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar",
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "forearms",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "chin-up"
+}

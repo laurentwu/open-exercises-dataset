@@ -1,0 +1,21 @@
+{
+  "id": "band-shoulder-pass-through",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "front-delts"
+    ],
+    "secondary": [
+      "lats",
+      "rotator-cuff"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

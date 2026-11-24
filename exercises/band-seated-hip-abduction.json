@@ -1,0 +1,20 @@
+{
+  "id": "band-seated-hip-abduction",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "abductors"
+    ],
+    "secondary": [
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

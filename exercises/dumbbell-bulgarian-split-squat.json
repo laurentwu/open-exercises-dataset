@@ -1,0 +1,26 @@
+{
+  "id": "dumbbell-bulgarian-split-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "lunge",
+  "laterality": "unilateral",
+  "equipment": [
+    "bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "bulgarian-split-squat"
+}

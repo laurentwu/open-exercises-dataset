@@ -1,0 +1,23 @@
+{
+  "id": "dumbbell-sumo-pull-through",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

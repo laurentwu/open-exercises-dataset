@@ -1,0 +1,26 @@
+{
+  "id": "kettlebell-overhead-carry",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "carry",
+  "laterality": "unilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "obliques"
+    ],
+    "secondary": [
+      "abs",
+      "rotator-cuff",
+      "traps",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

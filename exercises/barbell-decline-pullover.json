@@ -1,0 +1,25 @@
+{
+  "id": "barbell-decline-pullover",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "adjustable-bench",
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "lats"
+    ],
+    "secondary": [
+      "serratus",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-pullover"
+}

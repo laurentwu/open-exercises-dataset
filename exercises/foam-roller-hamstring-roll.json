@@ -1,0 +1,17 @@
+{
+  "id": "foam-roller-hamstring-roll",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

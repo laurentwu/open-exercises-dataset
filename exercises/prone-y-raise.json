@@ -1,0 +1,20 @@
+{
+  "id": "prone-y-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "traps",
+      "upper-back"
+    ],
+    "secondary": [
+      "rear-delts",
+      "rotator-cuff"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

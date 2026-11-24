@@ -1,0 +1,22 @@
+{
+  "id": "machine-crunch",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

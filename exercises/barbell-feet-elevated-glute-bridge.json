@@ -1,0 +1,24 @@
+{
+  "id": "barbell-feet-elevated-glute-bridge",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell",
+    "box"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "glute-bridge"
+}

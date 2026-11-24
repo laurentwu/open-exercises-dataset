@@ -1,0 +1,25 @@
+{
+  "id": "dumbbell-push-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "quads"
+    ],
+    "secondary": [
+      "glutes",
+      "traps",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

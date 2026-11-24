@@ -1,0 +1,23 @@
+{
+  "id": "ghd-sit-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "hyperextension-bench"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "hip-flexors"
+    ],
+    "secondary": [
+      "obliques",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

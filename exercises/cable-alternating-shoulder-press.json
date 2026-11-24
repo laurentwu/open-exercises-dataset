@@ -1,0 +1,25 @@
+{
+  "id": "cable-alternating-shoulder-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "alternating",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "side-delts"
+    ],
+    "secondary": [
+      "traps",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "cable-shoulder-press"
+}

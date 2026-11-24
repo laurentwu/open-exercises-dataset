@@ -1,0 +1,21 @@
+{
+  "id": "band-seated-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench",
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "band-shrug",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "traps"
+    ],
+    "secondary": [
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

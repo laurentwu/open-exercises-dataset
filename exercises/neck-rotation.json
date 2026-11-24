@@ -1,0 +1,15 @@
+{
+  "id": "neck-rotation",
+  "category": "mobility",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "neck"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

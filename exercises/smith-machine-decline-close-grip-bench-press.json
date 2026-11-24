@@ -1,0 +1,25 @@
+{
+  "id": "smith-machine-decline-close-grip-bench-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "adjustable-bench",
+    "smith-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "triceps"
+    ],
+    "secondary": [
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "smith-machine-bench-press"
+}

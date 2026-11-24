@@ -1,0 +1,23 @@
+{
+  "id": "ring-dip",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "gymnastic-rings"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

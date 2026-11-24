@@ -1,0 +1,21 @@
+{
+  "id": "band-serratus-punch",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "serratus"
+    ],
+    "secondary": [
+      "chest",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

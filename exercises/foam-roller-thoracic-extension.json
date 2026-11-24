@@ -1,0 +1,20 @@
+{
+  "id": "foam-roller-thoracic-extension",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "chest",
+      "lats"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

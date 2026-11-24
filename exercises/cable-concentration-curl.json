@@ -1,0 +1,22 @@
+{
+  "id": "cable-concentration-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "bench",
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

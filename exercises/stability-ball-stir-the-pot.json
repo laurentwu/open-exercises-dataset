@@ -1,0 +1,24 @@
+{
+  "id": "stability-ball-stir-the-pot",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "obliques"
+    ],
+    "secondary": [
+      "front-delts",
+      "glutes",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

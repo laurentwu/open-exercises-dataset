@@ -1,0 +1,26 @@
+{
+  "id": "barbell-sumo-deadlift-high-pull",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings",
+      "traps"
+    ],
+    "secondary": [
+      "quads",
+      "side-delts",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

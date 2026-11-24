@@ -1,0 +1,25 @@
+{
+  "id": "dumbbell-side-plank-rear-delt-fly",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques",
+      "rear-delts"
+    ],
+    "secondary": [
+      "abductors",
+      "abs",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

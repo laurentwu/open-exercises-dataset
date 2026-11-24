@@ -1,0 +1,15 @@
+{
+  "id": "wall-slide",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "rotator-cuff"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

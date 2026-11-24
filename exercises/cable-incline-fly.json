@@ -1,0 +1,23 @@
+{
+  "id": "cable-incline-fly",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "adjustable-bench",
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "cable-lying-fly"
+}

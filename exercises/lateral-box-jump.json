@@ -1,0 +1,23 @@
+{
+  "id": "lateral-box-jump",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [
+    "box"
+  ],
+  "muscles": {
+    "primary": [
+      "calves",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abductors",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "box-jump"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "dumbbell-seated-single-leg-calf-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-seated-calf-raise"
+}

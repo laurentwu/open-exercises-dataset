@@ -1,0 +1,20 @@
+{
+  "id": "cable-kneeling-overhead-triceps-extension",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "triceps"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "cable-overhead-triceps-extension"
+}

@@ -1,0 +1,24 @@
+{
+  "id": "cable-y-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "side-delts",
+      "traps"
+    ],
+    "secondary": [
+      "front-delts",
+      "rear-delts",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "kettlebell-single-arm-jerk",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "unilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "quads"
+    ],
+    "secondary": [
+      "glutes",
+      "obliques",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

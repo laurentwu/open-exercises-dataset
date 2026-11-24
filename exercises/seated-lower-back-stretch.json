@@ -1,0 +1,15 @@
+{
+  "id": "seated-lower-back-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "lower-back"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

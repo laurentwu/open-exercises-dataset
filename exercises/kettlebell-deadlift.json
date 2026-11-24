@@ -1,0 +1,25 @@
+{
+  "id": "kettlebell-deadlift",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "forearms",
+      "lower-back",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

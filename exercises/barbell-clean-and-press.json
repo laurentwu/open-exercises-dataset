@@ -1,0 +1,26 @@
+{
+  "id": "barbell-clean-and-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "hamstrings",
+      "traps",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

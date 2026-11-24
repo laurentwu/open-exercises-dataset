@@ -1,0 +1,20 @@
+{
+  "id": "prone-neck-extension",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "neck"
+    ],
+    "secondary": [
+      "traps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

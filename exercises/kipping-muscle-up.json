@@ -1,0 +1,25 @@
+{
+  "id": "kipping-muscle-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "chest",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "muscle-up"
+}

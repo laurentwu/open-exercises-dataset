@@ -1,0 +1,25 @@
+{
+  "id": "dumbbell-single-arm-overhead-carry",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "carry",
+  "laterality": "unilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "obliques"
+    ],
+    "secondary": [
+      "forearms",
+      "serratus",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "bear-plank",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "front-delts",
+      "quads",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ],
+  "variantOf": "plank"
+}

@@ -1,0 +1,24 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Exercise text",
+  "description": "Text for one exercise in one language, stored at locales/<language>/exercises/<id>.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["name", "aliases", "steps", "tips"],
+  "properties": {
+    "source": {
+      "type": "string",
+      "pattern": "^[0-9a-f]{8}$",
+      "description": "Translations only: hash of the source-language name, steps and tips this text was translated from."
+    },
+    "name": { "type": "string", "minLength": 1, "maxLength": 80 },
+    "aliases": {
+      "type": "array",
+      "description": "Other names people use in this language. Not translations of the source aliases.",
+      "items": { "type": "string", "minLength": 1 },
+      "uniqueItems": true
+    },
+    "steps": { "type": "array", "items": { "type": "string", "minLength": 1 }, "minItems": 2, "maxItems": 10 },
+    "tips": { "type": "array", "items": { "type": "string", "minLength": 1 }, "maxItems": 5 }
+  }
+}

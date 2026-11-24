@@ -1,0 +1,25 @@
+{
+  "id": "ring-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "gymnastic-rings"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "forearms",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "inverted-row"
+}

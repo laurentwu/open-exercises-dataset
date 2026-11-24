@@ -1,0 +1,41 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Exercise",
+  "description": "Language-neutral facts about one exercise. Allowed values for each field are listed in taxonomy.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["id", "category", "laterality", "equipment", "muscles", "metrics"],
+  "properties": {
+    "id": { "type": "string", "pattern": "^[a-z0-9]+(-[a-z0-9]+)*$", "description": "Permanent identifier, equal to the file name." },
+    "category": { "type": "string", "description": "One of taxonomy.categories." },
+    "mechanic": { "type": "string", "description": "One of taxonomy.mechanics. Required for strength exercises." },
+    "pattern": { "type": "string", "description": "One of taxonomy.patterns." },
+    "laterality": { "type": "string", "description": "One of taxonomy.laterality." },
+    "equipment": {
+      "type": "array",
+      "description": "Every piece of equipment the exercise needs, from taxonomy.equipment. Empty means no equipment.",
+      "items": { "type": "string" },
+      "uniqueItems": true
+    },
+    "muscles": {
+      "type": "object",
+      "additionalProperties": false,
+      "required": ["primary", "secondary"],
+      "properties": {
+        "primary": { "type": "array", "items": { "type": "string" }, "minItems": 1, "maxItems": 3, "uniqueItems": true },
+        "secondary": { "type": "array", "items": { "type": "string" }, "maxItems": 5, "uniqueItems": true }
+      }
+    },
+    "metrics": {
+      "type": "array",
+      "description": "What to log for one set, one of taxonomy.metricSets.",
+      "items": { "type": "string" },
+      "minItems": 1,
+      "uniqueItems": true
+    },
+    "variantOf": { "type": "string", "description": "Id of the base exercise this one varies." },
+    "deprecated": { "const": true },
+    "replacedBy": { "type": "string", "description": "Id of the exercise that replaces a deprecated one." }
+  },
+  "dependentRequired": { "replacedBy": ["deprecated"] }
+}

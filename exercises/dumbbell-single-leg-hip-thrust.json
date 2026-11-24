@@ -1,0 +1,24 @@
+{
+  "id": "dumbbell-single-leg-hip-thrust",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "unilateral",
+  "equipment": [
+    "bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-hip-thrust"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "dumbbell-alternating-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "alternating",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-curl"
+}

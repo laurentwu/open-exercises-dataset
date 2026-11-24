@@ -1,0 +1,23 @@
+{
+  "id": "dumbbell-deficit-push-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "push-up"
+}

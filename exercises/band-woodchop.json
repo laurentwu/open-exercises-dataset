@@ -1,0 +1,22 @@
+{
+  "id": "band-woodchop",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-rotation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

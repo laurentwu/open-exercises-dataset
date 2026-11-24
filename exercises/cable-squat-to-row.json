@@ -1,0 +1,24 @@
+{
+  "id": "cable-squat-to-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "quads",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "glutes",
+      "lats"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

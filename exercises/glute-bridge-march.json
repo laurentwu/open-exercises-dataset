@@ -1,0 +1,21 @@
+{
+  "id": "glute-bridge-march",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "abs",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "glute-bridge"
+}

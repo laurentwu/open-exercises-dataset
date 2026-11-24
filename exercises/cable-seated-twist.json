@@ -1,0 +1,24 @@
+{
+  "id": "cable-seated-twist",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "trunk-rotation",
+  "laterality": "unilateral",
+  "equipment": [
+    "bench",
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "cable-torso-rotation"
+}

@@ -1,0 +1,16 @@
+{
+  "id": "tibialis-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "shins"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

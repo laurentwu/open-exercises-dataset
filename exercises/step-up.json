@@ -1,0 +1,23 @@
+{
+  "id": "step-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "lunge",
+  "laterality": "unilateral",
+  "equipment": [
+    "box"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

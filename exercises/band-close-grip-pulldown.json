@@ -1,0 +1,23 @@
+{
+  "id": "band-close-grip-pulldown",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "forearms",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

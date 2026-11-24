@@ -1,0 +1,25 @@
+{
+  "id": "kettlebell-suitcase-carry",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "carry",
+  "laterality": "unilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms",
+      "obliques"
+    ],
+    "secondary": [
+      "glutes",
+      "quads",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

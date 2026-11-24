@@ -1,0 +1,21 @@
+{
+  "id": "dumbbell-standing-external-rotation",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "rotator-cuff"
+    ],
+    "secondary": [
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

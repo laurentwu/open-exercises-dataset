@@ -1,0 +1,22 @@
+{
+  "id": "dumbbell-lying-leg-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

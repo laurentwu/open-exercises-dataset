@@ -1,0 +1,17 @@
+{
+  "id": "overhead-triceps-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "lats"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

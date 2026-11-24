@@ -1,0 +1,21 @@
+{
+  "id": "supine-elbow-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "rear-delts",
+      "upper-back"
+    ],
+    "secondary": [
+      "lats",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

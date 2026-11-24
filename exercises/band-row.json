@@ -1,0 +1,23 @@
+{
+  "id": "band-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

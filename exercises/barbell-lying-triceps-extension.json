@@ -1,0 +1,20 @@
+{
+  "id": "barbell-lying-triceps-extension",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell",
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "triceps"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

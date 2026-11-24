@@ -1,0 +1,21 @@
+{
+  "id": "box-drop-to-single-leg-landing",
+  "category": "plyometrics",
+  "laterality": "unilateral",
+  "equipment": [
+    "box"
+  ],
+  "muscles": {
+    "primary": [
+      "calves",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,15 @@
+{
+  "id": "butterfly-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "adductors"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "reverse-plank",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "rear-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

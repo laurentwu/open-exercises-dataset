@@ -1,0 +1,21 @@
+{
+  "id": "machine-hip-abduction",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "abductors"
+    ],
+    "secondary": [
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

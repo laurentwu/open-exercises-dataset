@@ -1,0 +1,26 @@
+{
+  "id": "kettlebell-double-snatch",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "forearms",
+      "front-delts",
+      "quads",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

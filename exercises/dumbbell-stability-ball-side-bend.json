@@ -1,0 +1,24 @@
+{
+  "id": "dumbbell-stability-ball-side-bend",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [
+    "dumbbell",
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-side-bend"
+}

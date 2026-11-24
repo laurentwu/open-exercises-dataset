@@ -1,0 +1,22 @@
+{
+  "id": "decline-twisting-sit-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-rotation",
+  "laterality": "alternating",
+  "equipment": [
+    "adjustable-bench"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "sit-up"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "plate-neck-extension",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench",
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "neck"
+    ],
+    "secondary": [
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "prone-neck-extension"
+}

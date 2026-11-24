@@ -1,0 +1,20 @@
+{
+  "id": "band-alternating-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "alternating",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "dumbbell-clean-and-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "hamstrings",
+      "lower-back",
+      "traps",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

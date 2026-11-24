@@ -1,0 +1,23 @@
+{
+  "id": "flexed-arm-hang",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps",
+      "lats"
+    ],
+    "secondary": [
+      "forearms",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

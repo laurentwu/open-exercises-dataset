@@ -1,0 +1,24 @@
+{
+  "id": "kettlebell-bent-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "unilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "obliques"
+    ],
+    "secondary": [
+      "glutes",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

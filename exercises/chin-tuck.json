@@ -1,0 +1,15 @@
+{
+  "id": "chin-tuck",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "neck"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

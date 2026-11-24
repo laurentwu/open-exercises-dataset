@@ -1,0 +1,20 @@
+{
+  "id": "dead-bug",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "hip-flexors",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

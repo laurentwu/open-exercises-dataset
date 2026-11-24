@@ -1,0 +1,21 @@
+{
+  "id": "plank",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "glutes",
+      "obliques",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

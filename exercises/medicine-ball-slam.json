@@ -1,0 +1,24 @@
+{
+  "id": "medicine-ball-slam",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [
+    "medicine-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "front-delts",
+      "lats"
+    ],
+    "secondary": [
+      "glutes",
+      "quads",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

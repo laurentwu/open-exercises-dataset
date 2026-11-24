@@ -1,0 +1,21 @@
+{
+  "id": "crab-toe-touch",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-rotation",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs",
+      "glutes",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

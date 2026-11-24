@@ -1,0 +1,24 @@
+{
+  "id": "band-face-pull",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "rear-delts",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "rotator-cuff",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

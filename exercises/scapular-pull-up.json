@@ -1,0 +1,22 @@
+{
+  "id": "scapular-pull-up",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "traps"
+    ],
+    "secondary": [
+      "forearms",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

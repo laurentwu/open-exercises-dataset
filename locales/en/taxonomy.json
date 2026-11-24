@@ -1,0 +1,33 @@
+{
+  "regions": { "chest": "Chest", "back": "Back", "shoulders": "Shoulders", "arms": "Arms", "core": "Core", "legs": "Legs", "neck": "Neck" },
+  "muscles": {
+    "chest": "Chest", "serratus": "Serratus Anterior",
+    "front-delts": "Front Delts", "side-delts": "Side Delts", "rear-delts": "Rear Delts", "rotator-cuff": "Rotator Cuff",
+    "lats": "Lats", "upper-back": "Upper Back", "traps": "Traps", "lower-back": "Lower Back",
+    "biceps": "Biceps", "triceps": "Triceps", "forearms": "Forearms",
+    "abs": "Abs", "obliques": "Obliques",
+    "hip-flexors": "Hip Flexors", "glutes": "Glutes", "abductors": "Hip Abductors", "adductors": "Hip Adductors",
+    "quads": "Quads", "hamstrings": "Hamstrings", "calves": "Calves", "shins": "Shins", "neck": "Neck"
+  },
+  "equipment": {
+    "barbell": "Barbell", "ez-bar": "EZ Bar", "trap-bar": "Trap Bar", "dumbbell": "Dumbbell", "kettlebell": "Kettlebell", "weight-plate": "Weight Plate",
+    "medicine-ball": "Medicine Ball", "stability-ball": "Stability Ball", "bosu-ball": "BOSU Ball", "resistance-band": "Resistance Band",
+    "cable-machine": "Cable Machine", "smith-machine": "Smith Machine", "machine": "Machine",
+    "bench": "Bench", "adjustable-bench": "Adjustable Bench", "preacher-bench": "Preacher Bench", "hyperextension-bench": "Hyperextension Bench",
+    "pull-up-bar": "Pull-Up Bar", "dip-station": "Dip Station", "gymnastic-rings": "Gymnastic Rings", "suspension-trainer": "Suspension Trainer",
+    "box": "Box", "ab-wheel": "Ab Wheel", "foam-roller": "Foam Roller", "jump-rope": "Jump Rope", "battle-rope": "Battle Rope",
+    "sled": "Sled", "tire": "Tire", "sledgehammer": "Sledgehammer", "sandbag": "Sandbag",
+    "treadmill": "Treadmill", "stationary-bike": "Stationary Bike", "rowing-machine": "Rowing Machine", "elliptical": "Elliptical",
+    "stair-climber": "Stair Climber", "ski-erg": "Ski Erg", "arm-ergometer": "Arm Ergometer"
+  },
+  "categories": { "strength": "Strength", "cardio": "Cardio", "plyometrics": "Plyometrics", "stretching": "Stretching", "mobility": "Mobility" },
+  "mechanics": { "compound": "Compound", "isolation": "Isolation" },
+  "patterns": {
+    "horizontal-push": "Horizontal Push", "vertical-push": "Vertical Push", "horizontal-pull": "Horizontal Pull", "vertical-pull": "Vertical Pull",
+    "squat": "Squat", "hinge": "Hinge", "lunge": "Lunge", "carry": "Carry",
+    "trunk-flexion": "Trunk Flexion", "trunk-rotation": "Trunk Rotation", "lateral-flexion": "Lateral Flexion",
+    "anti-extension": "Anti-Extension", "anti-rotation": "Anti-Rotation", "anti-lateral-flexion": "Anti-Lateral Flexion"
+  },
+  "laterality": { "bilateral": "Both Sides", "unilateral": "One Side at a Time", "alternating": "Alternating" },
+  "metrics": { "weight": "Weight", "reps": "Reps", "duration": "Duration", "distance": "Distance" }
+}

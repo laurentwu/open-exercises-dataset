@@ -1,0 +1,19 @@
+{
+  "id": "incline-scapular-push-up",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "serratus"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "scapular-push-up"
+}

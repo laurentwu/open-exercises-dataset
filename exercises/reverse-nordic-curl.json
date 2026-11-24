@@ -1,0 +1,20 @@
+{
+  "id": "reverse-nordic-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": [
+      "abs",
+      "glutes",
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

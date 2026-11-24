@@ -1,0 +1,21 @@
+{
+  "id": "bodyweight-single-leg-deadlift",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves",
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

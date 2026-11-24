@@ -1,0 +1,24 @@
+{
+  "id": "barbell-upright-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "side-delts",
+      "traps"
+    ],
+    "secondary": [
+      "biceps",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

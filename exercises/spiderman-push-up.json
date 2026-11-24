@@ -1,0 +1,22 @@
+{
+  "id": "spiderman-push-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts",
+      "obliques",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "push-up"
+}

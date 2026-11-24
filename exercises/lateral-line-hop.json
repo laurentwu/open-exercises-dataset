@@ -1,0 +1,18 @@
+{
+  "id": "lateral-line-hop",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": [
+      "quads",
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

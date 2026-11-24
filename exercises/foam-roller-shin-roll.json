@@ -1,0 +1,17 @@
+{
+  "id": "foam-roller-shin-roll",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "shins"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

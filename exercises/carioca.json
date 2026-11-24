@@ -1,0 +1,21 @@
+{
+  "id": "carioca",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abductors",
+      "adductors",
+      "calves"
+    ],
+    "secondary": [
+      "glutes",
+      "obliques",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,19 @@
+{
+  "id": "mountain-climber",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs",
+      "hip-flexors"
+    ],
+    "secondary": [
+      "front-delts",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

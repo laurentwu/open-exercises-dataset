@@ -1,0 +1,20 @@
+{
+  "id": "skater-hop",
+  "category": "plyometrics",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abductors",
+      "adductors",
+      "calves"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "dumbbell-seated-front-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts"
+    ],
+    "secondary": [
+      "chest"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-front-raise"
+}

@@ -1,0 +1,22 @@
+{
+  "id": "planche",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs",
+      "front-delts"
+    ],
+    "secondary": [
+      "chest",
+      "serratus",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

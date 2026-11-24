@@ -1,0 +1,24 @@
+{
+  "id": "human-flag",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "obliques"
+    ],
+    "secondary": [
+      "abs",
+      "side-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

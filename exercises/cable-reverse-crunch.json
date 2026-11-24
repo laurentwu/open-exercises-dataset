@@ -1,0 +1,23 @@
+{
+  "id": "cable-reverse-crunch",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "reverse-crunch"
+}

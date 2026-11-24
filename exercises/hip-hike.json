@@ -1,0 +1,21 @@
+{
+  "id": "hip-hike",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "box"
+  ],
+  "muscles": {
+    "primary": [
+      "abductors"
+    ],
+    "secondary": [
+      "glutes",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

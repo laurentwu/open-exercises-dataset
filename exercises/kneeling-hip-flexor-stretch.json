@@ -1,0 +1,17 @@
+{
+  "id": "kneeling-hip-flexor-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hip-flexors"
+    ],
+    "secondary": [
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "supine-pelvic-tilt",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs",
+      "lower-back"
+    ],
+    "secondary": [
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

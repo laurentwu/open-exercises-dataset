@@ -1,0 +1,25 @@
+{
+  "id": "band-assisted-ab-wheel-rollout",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "ab-wheel",
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "lats",
+      "obliques",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "ab-wheel-rollout"
+}

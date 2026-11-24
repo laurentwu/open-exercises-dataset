@@ -1,0 +1,21 @@
+{
+  "id": "dumbbell-forearm-supination",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms"
+    ],
+    "secondary": [
+      "biceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "chest-dip",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "dip-station"
+  ],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

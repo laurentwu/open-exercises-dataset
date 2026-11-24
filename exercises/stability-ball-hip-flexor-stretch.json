@@ -1,0 +1,19 @@
+{
+  "id": "stability-ball-hip-flexor-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "hip-flexors"
+    ],
+    "secondary": [
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

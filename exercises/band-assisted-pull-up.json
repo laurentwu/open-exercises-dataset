@@ -1,0 +1,25 @@
+{
+  "id": "band-assisted-pull-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar",
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "forearms",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "pull-up"
+}

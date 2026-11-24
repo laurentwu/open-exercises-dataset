@@ -1,0 +1,16 @@
+{
+  "id": "side-lying-hip-adduction",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "adductors"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

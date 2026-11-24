@@ -1,0 +1,43 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Open Exercises Dataset</title>
+    <meta name="description" content="A free, open exercise library with facts, steps and animations in several languages. CC BY 4.0." />
+    <link rel="stylesheet" href="style.css" />
+    <script type="module" src="app.js"></script>
+  </head>
+  <body>
+    <header class="top">
+      <div class="top-row">
+        <div>
+          <h1 data-text="title">Open Exercises Dataset</h1>
+          <p class="tagline" data-text="tagline"></p>
+        </div>
+        <label class="lang">
+          <span class="sr" data-text="language"></span>
+          <select id="lang"></select>
+        </label>
+      </div>
+      <nav class="downloads" id="downloads" aria-label="JSON"></nav>
+    </header>
+    <main>
+      <section class="filters">
+        <input id="query" type="search" autocomplete="off" />
+        <select id="region"></select>
+        <select id="equipment"></select>
+        <select id="category"></select>
+        <span class="count" id="count" aria-live="polite"></span>
+      </section>
+      <p class="empty" id="empty" hidden data-text="empty"></p>
+      <ul class="grid" id="grid"></ul>
+    </main>
+    <footer class="bottom">
+      <p data-text="license"></p>
+      <p><span data-text="attributionHint"></span> <code id="attribution"></code></p>
+      <p><a id="repository" data-text="repository"></a></p>
+    </footer>
+    <dialog id="detail"></dialog>
+  </body>
+</html>

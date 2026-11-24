@@ -1,0 +1,23 @@
+{
+  "id": "stability-ball-dip",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "chest",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

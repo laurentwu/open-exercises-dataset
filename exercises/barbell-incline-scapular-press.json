@@ -1,0 +1,20 @@
+{
+  "id": "barbell-incline-scapular-press",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "adjustable-bench",
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "serratus"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

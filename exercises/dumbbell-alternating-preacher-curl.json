@@ -1,0 +1,23 @@
+{
+  "id": "dumbbell-alternating-preacher-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "alternating",
+  "equipment": [
+    "dumbbell",
+    "preacher-bench"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-preacher-curl"
+}

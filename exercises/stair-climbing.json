@@ -1,0 +1,19 @@
+{
+  "id": "stair-climbing",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "calves",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

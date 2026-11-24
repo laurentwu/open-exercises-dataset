@@ -1,0 +1,17 @@
+{
+  "id": "wall-seated-side-crunch",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

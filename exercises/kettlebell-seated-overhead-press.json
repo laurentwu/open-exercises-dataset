@@ -1,0 +1,26 @@
+{
+  "id": "kettlebell-seated-overhead-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench",
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "side-delts"
+    ],
+    "secondary": [
+      "traps",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "kettlebell-double-overhead-press"
+}

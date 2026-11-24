@@ -1,0 +1,25 @@
+{
+  "id": "lateral-step-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "lunge",
+  "laterality": "unilateral",
+  "equipment": [
+    "box"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abductors",
+      "adductors",
+      "calves"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "step-up"
+}

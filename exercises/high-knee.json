@@ -1,0 +1,19 @@
+{
+  "id": "high-knee",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hip-flexors",
+      "quads"
+    ],
+    "secondary": [
+      "abs",
+      "calves"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

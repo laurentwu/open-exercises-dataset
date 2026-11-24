@@ -1,0 +1,23 @@
+{
+  "id": "kettlebell-plyometric-push-up",
+  "category": "plyometrics",
+  "pattern": "horizontal-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "push-up"
+}

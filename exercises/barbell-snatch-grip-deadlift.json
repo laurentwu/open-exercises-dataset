@@ -1,0 +1,28 @@
+{
+  "id": "barbell-snatch-grip-deadlift",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings",
+      "upper-back"
+    ],
+    "secondary": [
+      "forearms",
+      "lower-back",
+      "quads",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-deadlift"
+}

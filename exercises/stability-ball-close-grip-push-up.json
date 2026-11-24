@@ -1,0 +1,24 @@
+{
+  "id": "stability-ball-close-grip-push-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "push-up"
+}

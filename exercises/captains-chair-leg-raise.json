@@ -1,0 +1,19 @@
+{
+  "id": "captains-chair-leg-raise",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "dip-station"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

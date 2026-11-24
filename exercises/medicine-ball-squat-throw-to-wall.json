@@ -1,0 +1,23 @@
+{
+  "id": "medicine-ball-squat-throw-to-wall",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [
+    "medicine-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "quads",
+      "glutes",
+      "front-delts"
+    ],
+    "secondary": [
+      "triceps",
+      "abs"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "weighted-plank",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "glutes",
+      "obliques",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "duration"
+  ],
+  "variantOf": "plank"
+}

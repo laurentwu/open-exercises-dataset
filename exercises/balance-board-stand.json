@@ -1,0 +1,17 @@
+{
+  "id": "balance-board-stand",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [
+    "bosu-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

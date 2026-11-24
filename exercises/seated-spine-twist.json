@@ -1,0 +1,17 @@
+{
+  "id": "seated-spine-twist",
+  "category": "mobility",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

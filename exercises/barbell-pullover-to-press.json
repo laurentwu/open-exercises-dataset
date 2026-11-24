@@ -1,0 +1,24 @@
+{
+  "id": "barbell-pullover-to-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell",
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "lats"
+    ],
+    "secondary": [
+      "front-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

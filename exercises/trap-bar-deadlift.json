@@ -1,0 +1,26 @@
+{
+  "id": "trap-bar-deadlift",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "trap-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings",
+      "quads"
+    ],
+    "secondary": [
+      "forearms",
+      "lower-back",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

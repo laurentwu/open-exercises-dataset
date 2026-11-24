@@ -1,0 +1,21 @@
+{
+  "id": "kneeling-leg-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

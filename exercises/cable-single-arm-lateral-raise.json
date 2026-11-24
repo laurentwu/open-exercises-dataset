@@ -1,0 +1,23 @@
+{
+  "id": "cable-single-arm-lateral-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "side-delts"
+    ],
+    "secondary": [
+      "front-delts",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "cable-lateral-raise"
+}

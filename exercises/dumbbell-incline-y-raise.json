@@ -1,0 +1,24 @@
+{
+  "id": "dumbbell-incline-y-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "adjustable-bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "traps"
+    ],
+    "secondary": [
+      "rear-delts",
+      "rotator-cuff",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

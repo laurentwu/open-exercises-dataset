@@ -1,0 +1,25 @@
+{
+  "id": "kettlebell-farmers-walk",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "carry",
+  "laterality": "bilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms",
+      "traps"
+    ],
+    "secondary": [
+      "glutes",
+      "quads",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

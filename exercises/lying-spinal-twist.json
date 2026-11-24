@@ -1,0 +1,15 @@
+{
+  "id": "lying-spinal-twist",
+  "category": "stretching",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

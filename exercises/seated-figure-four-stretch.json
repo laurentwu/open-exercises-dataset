@@ -1,0 +1,17 @@
+{
+  "id": "seated-figure-four-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "abductors"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

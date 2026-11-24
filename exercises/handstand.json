@@ -1,0 +1,23 @@
+{
+  "id": "handstand",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "traps"
+    ],
+    "secondary": [
+      "abs",
+      "forearms",
+      "serratus",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

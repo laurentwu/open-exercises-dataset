@@ -1,0 +1,18 @@
+{
+  "id": "wall-biceps-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "chest",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

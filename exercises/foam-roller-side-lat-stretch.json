@@ -1,0 +1,19 @@
+{
+  "id": "foam-roller-side-lat-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

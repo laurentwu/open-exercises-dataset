@@ -1,0 +1,22 @@
+{
+  "id": "ez-bar-reverse-grip-preacher-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "ez-bar",
+    "preacher-bench"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps",
+      "forearms"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "ez-bar-preacher-curl"
+}

@@ -1,0 +1,25 @@
+{
+  "id": "barbell-seated-alternating-leg-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "trunk-flexion",
+  "laterality": "alternating",
+  "equipment": [
+    "barbell",
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "hip-flexors"
+    ],
+    "secondary": [
+      "abs",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "seated-leg-raise"
+}

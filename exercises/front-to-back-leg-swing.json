@@ -1,0 +1,18 @@
+{
+  "id": "front-to-back-leg-swing",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hamstrings",
+      "hip-flexors"
+    ],
+    "secondary": [
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

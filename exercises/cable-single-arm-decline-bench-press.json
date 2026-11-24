@@ -1,0 +1,26 @@
+{
+  "id": "cable-single-arm-decline-bench-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "unilateral",
+  "equipment": [
+    "adjustable-bench",
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts",
+      "obliques",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "cable-bench-press"
+}

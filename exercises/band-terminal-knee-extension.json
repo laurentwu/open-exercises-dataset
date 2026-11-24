@@ -1,0 +1,18 @@
+{
+  "id": "band-terminal-knee-extension",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

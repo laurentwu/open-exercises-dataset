@@ -1,0 +1,20 @@
+{
+  "id": "band-seated-hip-internal-rotation",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "abductors"
+    ],
+    "secondary": [
+      "adductors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

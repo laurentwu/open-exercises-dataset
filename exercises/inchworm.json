@@ -1,0 +1,19 @@
+{
+  "id": "inchworm",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "abs",
+      "calves",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

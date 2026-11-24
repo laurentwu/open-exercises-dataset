@@ -1,0 +1,20 @@
+{
+  "id": "sit-to-stand",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "quads",
+      "glutes"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

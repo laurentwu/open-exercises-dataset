@@ -1,0 +1,15 @@
+{
+  "id": "wrist-circle",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "forearms"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

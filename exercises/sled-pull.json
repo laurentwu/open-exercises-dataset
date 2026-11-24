@@ -1,0 +1,27 @@
+{
+  "id": "sled-pull",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "alternating",
+  "equipment": [
+    "sled"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "upper-back"
+    ],
+    "secondary": [
+      "abs",
+      "biceps",
+      "forearms",
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

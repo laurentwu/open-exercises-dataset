@@ -1,0 +1,20 @@
+{
+  "id": "stability-ball-seated-hamstring-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ],
+  "variantOf": "seated-hamstring-stretch"
+}

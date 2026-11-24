@@ -1,0 +1,15 @@
+{
+  "id": "standing-calf-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

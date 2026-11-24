@@ -1,0 +1,20 @@
+{
+  "id": "foam-roller-seated-chest-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "front-delts"
+    ],
+    "secondary": [
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

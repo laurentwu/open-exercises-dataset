@@ -1,0 +1,24 @@
+{
+  "id": "dumbbell-squat-to-curl",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "forearms",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

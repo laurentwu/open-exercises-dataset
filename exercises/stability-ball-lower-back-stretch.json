@@ -1,0 +1,17 @@
+{
+  "id": "stability-ball-lower-back-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "lower-back"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

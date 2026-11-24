@@ -1,0 +1,20 @@
+{
+  "id": "arm-circle",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "side-delts"
+    ],
+    "secondary": [
+      "rear-delts",
+      "rotator-cuff",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

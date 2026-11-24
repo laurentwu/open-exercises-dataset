@@ -1,0 +1,22 @@
+{
+  "id": "cable-torso-rotation",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-rotation",
+  "laterality": "unilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

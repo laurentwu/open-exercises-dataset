@@ -1,0 +1,25 @@
+{
+  "id": "burpee-box-jump",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [
+    "box"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "front-delts",
+      "hamstrings",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "burpee"
+}

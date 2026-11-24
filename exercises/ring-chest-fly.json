@@ -1,0 +1,22 @@
+{
+  "id": "ring-chest-fly",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "gymnastic-rings"
+  ],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "abs",
+      "biceps",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

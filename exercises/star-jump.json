@@ -1,0 +1,19 @@
+{
+  "id": "star-jump",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "barbell-seated-twist",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "trunk-rotation",
+  "laterality": "alternating",
+  "equipment": [
+    "barbell",
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

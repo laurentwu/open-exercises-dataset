@@ -1,0 +1,23 @@
+{
+  "id": "cable-pallof-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-rotation",
+  "laterality": "unilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "obliques"
+    ],
+    "secondary": [
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dumbbell-farmers-walk",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "carry",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms",
+      "traps"
+    ],
+    "secondary": [
+      "abs",
+      "glutes",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

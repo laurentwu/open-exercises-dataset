@@ -1,0 +1,21 @@
+{
+  "id": "barbell-front-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts"
+    ],
+    "secondary": [
+      "chest"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

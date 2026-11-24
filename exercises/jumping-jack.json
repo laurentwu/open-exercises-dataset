@@ -1,0 +1,20 @@
+{
+  "id": "jumping-jack",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves",
+      "quads"
+    ],
+    "secondary": [
+      "abductors",
+      "glutes",
+      "side-delts"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

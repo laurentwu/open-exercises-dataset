@@ -1,0 +1,22 @@
+{
+  "id": "dumbbell-seated-alternating-hammer-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "alternating",
+  "equipment": [
+    "bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps",
+      "forearms"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-hammer-curl"
+}

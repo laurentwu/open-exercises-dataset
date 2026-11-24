@@ -1,0 +1,23 @@
+{
+  "id": "cable-kayak-row",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "alternating",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "obliques",
+      "rear-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

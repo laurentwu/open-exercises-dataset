@@ -1,0 +1,19 @@
+{
+  "id": "foam-roller-upper-back-roll",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": [
+      "traps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

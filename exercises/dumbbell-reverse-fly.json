@@ -1,0 +1,22 @@
+{
+  "id": "dumbbell-reverse-fly",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "rear-delts"
+    ],
+    "secondary": [
+      "traps",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

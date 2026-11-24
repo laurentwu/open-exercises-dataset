@@ -1,0 +1,27 @@
+{
+  "id": "barbell-clean-pull",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads",
+      "traps"
+    ],
+    "secondary": [
+      "forearms",
+      "hamstrings",
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-clean"
+}

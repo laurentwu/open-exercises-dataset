@@ -1,0 +1,22 @@
+{
+  "id": "barbell-rear-delt-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "rear-delts"
+    ],
+    "secondary": [
+      "traps",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

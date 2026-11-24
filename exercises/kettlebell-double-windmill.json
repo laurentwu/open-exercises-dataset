@@ -1,0 +1,25 @@
+{
+  "id": "kettlebell-double-windmill",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "unilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "obliques"
+    ],
+    "secondary": [
+      "hamstrings",
+      "rotator-cuff"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "kettlebell-windmill"
+}

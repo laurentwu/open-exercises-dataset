@@ -1,0 +1,25 @@
+{
+  "id": "smith-machine-rear-delt-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "smith-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "rear-delts",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "lower-back",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

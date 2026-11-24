@@ -1,0 +1,24 @@
+{
+  "id": "parallel-bar-side-leg-raise",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "lateral-flexion",
+  "laterality": "alternating",
+  "equipment": [
+    "dip-station"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs",
+      "hip-flexors",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "parallel-bar-leg-raise"
+}

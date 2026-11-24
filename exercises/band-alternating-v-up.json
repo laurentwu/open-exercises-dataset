@@ -1,0 +1,23 @@
+{
+  "id": "band-alternating-v-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "alternating",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "hip-flexors",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "v-up"
+}

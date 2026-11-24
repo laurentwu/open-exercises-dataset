@@ -1,0 +1,20 @@
+{
+  "id": "band-hip-flexor-march",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "alternating",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "hip-flexors"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

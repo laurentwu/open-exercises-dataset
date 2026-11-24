@@ -1,0 +1,20 @@
+{
+  "id": "band-external-rotation",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "rotator-cuff"
+    ],
+    "secondary": [
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

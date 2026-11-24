@@ -1,0 +1,25 @@
+{
+  "id": "kettlebell-double-jerk",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "glutes",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

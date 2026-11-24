@@ -1,0 +1,22 @@
+{
+  "id": "band-pallof-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-rotation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "obliques"
+    ],
+    "secondary": [
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

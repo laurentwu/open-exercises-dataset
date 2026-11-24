@@ -1,0 +1,20 @@
+{
+  "id": "tuck-jump",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "hamstrings",
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

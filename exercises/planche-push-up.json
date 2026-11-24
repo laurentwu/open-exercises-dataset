@@ -1,0 +1,22 @@
+{
+  "id": "planche-push-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "chest",
+      "front-delts"
+    ],
+    "secondary": [
+      "abs",
+      "serratus",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

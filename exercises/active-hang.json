@@ -1,0 +1,23 @@
+{
+  "id": "active-hang",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms",
+      "lats"
+    ],
+    "secondary": [
+      "traps",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ],
+  "variantOf": "dead-hang"
+}

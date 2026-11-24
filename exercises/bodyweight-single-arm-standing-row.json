@@ -1,0 +1,22 @@
+{
+  "id": "bodyweight-single-arm-standing-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-pull",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "lats",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "bodyweight-standing-row"
+}

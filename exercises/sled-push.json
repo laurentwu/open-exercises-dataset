@@ -1,0 +1,24 @@
+{
+  "id": "sled-push",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "alternating",
+  "equipment": [
+    "sled"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abs",
+      "calves",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

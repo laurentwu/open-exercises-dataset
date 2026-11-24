@@ -1,0 +1,20 @@
+{
+  "id": "band-front-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts"
+    ],
+    "secondary": [
+      "chest"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

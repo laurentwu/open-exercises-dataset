@@ -1,0 +1,20 @@
+{
+  "id": "jump-rope",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [
+    "jump-rope"
+  ],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": [
+      "forearms",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

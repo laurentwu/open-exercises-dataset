@@ -1,0 +1,26 @@
+{
+  "id": "weighted-single-arm-pull-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "unilateral",
+  "equipment": [
+    "pull-up-bar",
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "forearms",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "pull-up"
+}

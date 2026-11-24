@@ -1,0 +1,17 @@
+{
+  "id": "standing-hamstring-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

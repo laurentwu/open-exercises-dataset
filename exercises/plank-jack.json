@@ -1,0 +1,21 @@
+{
+  "id": "plank-jack",
+  "category": "cardio",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs",
+      "abductors"
+    ],
+    "secondary": [
+      "serratus",
+      "calves",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

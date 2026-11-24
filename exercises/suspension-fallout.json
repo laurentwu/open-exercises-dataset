@@ -1,0 +1,23 @@
+{
+  "id": "suspension-fallout",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "suspension-trainer"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "lats",
+      "obliques",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

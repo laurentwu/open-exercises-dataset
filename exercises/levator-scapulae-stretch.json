@@ -1,0 +1,16 @@
+{
+  "id": "levator-scapulae-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "neck",
+      "traps"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

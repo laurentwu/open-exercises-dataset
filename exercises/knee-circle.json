@@ -1,0 +1,18 @@
+{
+  "id": "knee-circle",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

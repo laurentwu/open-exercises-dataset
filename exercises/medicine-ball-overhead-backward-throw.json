@@ -1,0 +1,24 @@
+{
+  "id": "medicine-ball-overhead-backward-throw",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [
+    "medicine-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings",
+      "quads"
+    ],
+    "secondary": [
+      "front-delts",
+      "lower-back",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

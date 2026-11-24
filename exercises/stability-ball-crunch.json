@@ -1,0 +1,22 @@
+{
+  "id": "stability-ball-crunch",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "crunch"
+}

@@ -1,0 +1,15 @@
+{
+  "id": "half-kneeling-adductor-rock-back",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "adductors"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

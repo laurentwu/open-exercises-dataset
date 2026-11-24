@@ -1,0 +1,26 @@
+{
+  "id": "dumbbell-sumo-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "adductors",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "hamstrings",
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-squat"
+}

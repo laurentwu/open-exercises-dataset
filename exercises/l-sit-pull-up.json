@@ -1,0 +1,26 @@
+{
+  "id": "l-sit-pull-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "forearms",
+      "hip-flexors",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "pull-up"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "stability-ball-chest-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

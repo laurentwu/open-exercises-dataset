@@ -1,0 +1,22 @@
+{
+  "id": "cable-seated-shoulder-internal-rotation",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "bench",
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "rotator-cuff"
+    ],
+    "secondary": [
+      "chest"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

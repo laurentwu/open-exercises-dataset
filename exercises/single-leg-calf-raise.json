@@ -1,0 +1,17 @@
+{
+  "id": "single-leg-calf-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "bodyweight-standing-calf-raise"
+}

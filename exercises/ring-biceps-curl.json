@@ -1,0 +1,21 @@
+{
+  "id": "ring-biceps-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "gymnastic-rings"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "abs",
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

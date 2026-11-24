@@ -1,0 +1,21 @@
+{
+  "id": "stability-ball-hamstring-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves",
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

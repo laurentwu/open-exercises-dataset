@@ -1,0 +1,20 @@
+{
+  "id": "power-skip",
+  "category": "plyometrics",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads",
+      "calves"
+    ],
+    "secondary": [
+      "hip-flexors",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

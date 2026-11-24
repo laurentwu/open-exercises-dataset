@@ -1,0 +1,21 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Taxonomy labels",
+  "description": "Display names for every taxonomy value in one language, stored at locales/<language>/taxonomy.json.",
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["regions", "muscles", "equipment", "categories", "mechanics", "patterns", "laterality", "metrics"],
+  "properties": {
+    "regions": { "$ref": "#/$defs/labels" },
+    "muscles": { "$ref": "#/$defs/labels" },
+    "equipment": { "$ref": "#/$defs/labels" },
+    "categories": { "$ref": "#/$defs/labels" },
+    "mechanics": { "$ref": "#/$defs/labels" },
+    "patterns": { "$ref": "#/$defs/labels" },
+    "laterality": { "$ref": "#/$defs/labels" },
+    "metrics": { "$ref": "#/$defs/labels" }
+  },
+  "$defs": {
+    "labels": { "type": "object", "additionalProperties": { "type": "string", "minLength": 1 } }
+  }
+}

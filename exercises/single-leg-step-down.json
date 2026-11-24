@@ -1,0 +1,23 @@
+{
+  "id": "single-leg-step-down",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "lunge",
+  "laterality": "unilateral",
+  "equipment": [
+    "box"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abductors",
+      "calves"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

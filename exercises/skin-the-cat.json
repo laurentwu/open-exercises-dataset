@@ -1,0 +1,23 @@
+{
+  "id": "skin-the-cat",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "chest",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

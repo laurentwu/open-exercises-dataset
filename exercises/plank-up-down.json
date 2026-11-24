@@ -1,0 +1,23 @@
+{
+  "id": "plank-up-down",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs",
+      "triceps"
+    ],
+    "secondary": [
+      "front-delts",
+      "obliques",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "plank"
+}

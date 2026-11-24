@@ -1,0 +1,27 @@
+{
+  "id": "dumbbell-devil-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "chest",
+      "hamstrings",
+      "lower-back",
+      "traps",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

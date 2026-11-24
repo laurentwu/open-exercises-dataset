@@ -1,0 +1,19 @@
+{
+  "id": "sissy-squat",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": [
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

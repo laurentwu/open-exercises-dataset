@@ -1,0 +1,27 @@
+{
+  "id": "kettlebell-bottoms-up-hang-clean",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "unilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms",
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "biceps",
+      "front-delts",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "kettlebell-hang-clean"
+}

@@ -1,0 +1,17 @@
+{
+  "id": "standing-toe-touch-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

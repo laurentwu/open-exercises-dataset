@@ -1,0 +1,24 @@
+{
+  "id": "trap-bar-jump",
+  "category": "plyometrics",
+  "laterality": "bilateral",
+  "equipment": [
+    "trap-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "calves",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "hamstrings",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "jump-squat"
+}

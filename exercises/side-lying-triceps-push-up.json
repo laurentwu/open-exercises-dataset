@@ -1,0 +1,20 @@
+{
+  "id": "side-lying-triceps-push-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "triceps"
+    ],
+    "secondary": [
+      "chest",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

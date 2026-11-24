@@ -1,0 +1,23 @@
+{
+  "id": "dumbbell-incline-front-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "adjustable-bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts"
+    ],
+    "secondary": [
+      "side-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-front-raise"
+}

@@ -1,0 +1,21 @@
+{
+  "id": "plate-neck-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench",
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "neck"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "lying-neck-curl"
+}

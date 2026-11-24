@@ -1,0 +1,20 @@
+{
+  "id": "squat-to-overhead-reach",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "front-delts",
+      "obliques",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

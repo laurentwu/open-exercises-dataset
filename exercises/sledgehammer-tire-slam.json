@@ -1,0 +1,25 @@
+{
+  "id": "sledgehammer-tire-slam",
+  "category": "plyometrics",
+  "laterality": "alternating",
+  "equipment": [
+    "sledgehammer",
+    "tire"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "obliques"
+    ],
+    "secondary": [
+      "forearms",
+      "front-delts",
+      "glutes",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

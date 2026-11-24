@@ -1,0 +1,22 @@
+{
+  "id": "band-lying-leg-raise",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "lying-leg-raise"
+}

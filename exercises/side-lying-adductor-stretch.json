@@ -1,0 +1,15 @@
+{
+  "id": "side-lying-adductor-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "adductors"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

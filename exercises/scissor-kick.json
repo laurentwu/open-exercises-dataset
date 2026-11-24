@@ -1,0 +1,21 @@
+{
+  "id": "scissor-kick",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "adductors",
+      "hip-flexors",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

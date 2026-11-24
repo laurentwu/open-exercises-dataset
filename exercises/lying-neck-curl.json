@@ -1,0 +1,18 @@
+{
+  "id": "lying-neck-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "neck"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

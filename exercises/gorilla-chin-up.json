@@ -1,0 +1,25 @@
+{
+  "id": "gorilla-chin-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "lats"
+    ],
+    "secondary": [
+      "biceps",
+      "hip-flexors",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "chin-up"
+}

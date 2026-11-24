@@ -1,0 +1,22 @@
+{
+  "id": "side-plank-dip",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs",
+      "abductors",
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "side-plank"
+}

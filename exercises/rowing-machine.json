@@ -1,0 +1,25 @@
+{
+  "id": "rowing-machine",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [
+    "rowing-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "lats",
+      "quads"
+    ],
+    "secondary": [
+      "biceps",
+      "hamstrings",
+      "lower-back",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "distance",
+    "duration"
+  ]
+}

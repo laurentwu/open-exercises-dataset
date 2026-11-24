@@ -1,0 +1,16 @@
+{
+  "id": "isometric-neck-press",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "neck"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

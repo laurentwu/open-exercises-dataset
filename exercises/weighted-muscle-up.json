@@ -1,0 +1,28 @@
+{
+  "id": "weighted-muscle-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar",
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "triceps"
+    ],
+    "secondary": [
+      "biceps",
+      "chest",
+      "front-delts",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "muscle-up"
+}

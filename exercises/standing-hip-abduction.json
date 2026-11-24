@@ -1,0 +1,18 @@
+{
+  "id": "standing-hip-abduction",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abductors"
+    ],
+    "secondary": [
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

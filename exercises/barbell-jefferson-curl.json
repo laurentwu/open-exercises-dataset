@@ -1,0 +1,24 @@
+{
+  "id": "barbell-jefferson-curl",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell",
+    "box"
+  ],
+  "muscles": {
+    "primary": [
+      "hamstrings",
+      "lower-back"
+    ],
+    "secondary": [
+      "glutes",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "medicine-ball-single-arm-slam",
+  "category": "plyometrics",
+  "laterality": "unilateral",
+  "equipment": [
+    "medicine-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "front-delts",
+      "lats"
+    ],
+    "secondary": [
+      "glutes",
+      "obliques",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "medicine-ball-slam"
+}

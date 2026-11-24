@@ -1,0 +1,19 @@
+{
+  "id": "incline-straight-leg-hip-raise",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "adjustable-bench"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

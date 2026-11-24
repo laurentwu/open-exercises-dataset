@@ -1,0 +1,25 @@
+{
+  "id": "weighted-back-extension",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "hyperextension-bench",
+    "weight-plate"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "lower-back"
+    ],
+    "secondary": [
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "back-extension"
+}

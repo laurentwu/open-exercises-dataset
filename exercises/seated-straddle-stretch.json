@@ -1,0 +1,16 @@
+{
+  "id": "seated-straddle-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "adductors",
+      "hamstrings"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

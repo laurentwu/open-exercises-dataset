@@ -1,0 +1,17 @@
+{
+  "id": "side-lying-lat-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "lats"
+    ],
+    "secondary": [
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

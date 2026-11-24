@@ -1,0 +1,25 @@
+{
+  "id": "ring-l-sit",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "gymnastic-rings"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "hip-flexors"
+    ],
+    "secondary": [
+      "front-delts",
+      "quads",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ],
+  "variantOf": "l-sit"
+}

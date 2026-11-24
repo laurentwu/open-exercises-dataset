@@ -1,0 +1,24 @@
+{
+  "id": "hanging-twisting-leg-raise",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-rotation",
+  "laterality": "alternating",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "forearms",
+      "hip-flexors",
+      "lats"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "hanging-leg-raise"
+}

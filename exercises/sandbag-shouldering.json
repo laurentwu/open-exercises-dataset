@@ -1,0 +1,28 @@
+{
+  "id": "sandbag-shouldering",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "alternating",
+  "equipment": [
+    "sandbag"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings",
+      "quads"
+    ],
+    "secondary": [
+      "biceps",
+      "forearms",
+      "lower-back",
+      "traps",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "band-squat-to-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "quads",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "glutes",
+      "lats"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

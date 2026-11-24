@@ -1,0 +1,20 @@
+{
+  "id": "band-internal-rotation",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "rotator-cuff"
+    ],
+    "secondary": [
+      "chest"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

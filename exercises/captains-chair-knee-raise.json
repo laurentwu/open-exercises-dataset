@@ -1,0 +1,23 @@
+{
+  "id": "captains-chair-knee-raise",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "dip-station"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "hip-flexors",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "captains-chair-leg-raise"
+}

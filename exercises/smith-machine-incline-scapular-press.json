@@ -1,0 +1,20 @@
+{
+  "id": "smith-machine-incline-scapular-press",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "adjustable-bench",
+    "smith-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "serratus"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

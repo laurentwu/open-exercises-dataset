@@ -1,0 +1,27 @@
+{
+  "id": "barbell-snatch-balance",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "traps",
+      "triceps",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-snatch"
+}

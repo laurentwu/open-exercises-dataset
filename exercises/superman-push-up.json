@@ -1,0 +1,21 @@
+{
+  "id": "superman-push-up",
+  "category": "plyometrics",
+  "pattern": "horizontal-push",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "chest",
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "push-up"
+}

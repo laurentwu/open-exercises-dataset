@@ -1,0 +1,25 @@
+{
+  "id": "dumbbell-step-up-to-curl",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "unilateral",
+  "equipment": [
+    "box",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "forearms",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

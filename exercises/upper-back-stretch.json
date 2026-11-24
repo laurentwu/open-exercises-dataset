@@ -1,0 +1,15 @@
+{
+  "id": "upper-back-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "upper-back"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

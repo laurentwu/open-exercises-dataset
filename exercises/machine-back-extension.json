@@ -1,0 +1,23 @@
+{
+  "id": "machine-back-extension",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "lower-back"
+    ],
+    "secondary": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

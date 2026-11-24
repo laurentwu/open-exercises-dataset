@@ -1,0 +1,18 @@
+{
+  "id": "seated-hamstring-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "calves",
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

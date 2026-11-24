@@ -1,0 +1,17 @@
+{
+  "id": "lateral-neck-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "neck"
+    ],
+    "secondary": [
+      "traps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

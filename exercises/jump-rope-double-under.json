@@ -1,0 +1,21 @@
+{
+  "id": "jump-rope-double-under",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [
+    "jump-rope"
+  ],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": [
+      "forearms",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "jump-rope"
+}

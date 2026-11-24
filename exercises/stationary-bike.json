@@ -1,0 +1,22 @@
+{
+  "id": "stationary-bike",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [
+    "stationary-bike"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "distance",
+    "duration"
+  ]
+}

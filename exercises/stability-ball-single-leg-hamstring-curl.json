@@ -1,0 +1,23 @@
+{
+  "id": "stability-ball-single-leg-hamstring-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "stability-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "abs",
+      "calves"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "stability-ball-hamstring-curl"
+}

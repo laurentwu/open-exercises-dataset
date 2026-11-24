@@ -1,0 +1,21 @@
+{
+  "id": "bear-crawl",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs",
+      "front-delts",
+      "quads"
+    ],
+    "secondary": [
+      "glutes",
+      "hip-flexors",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kettlebell-bottoms-up-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "unilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "forearms",
+      "front-delts",
+      "side-delts"
+    ],
+    "secondary": [
+      "abs",
+      "rotator-cuff",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "kettlebell-single-arm-overhead-press"
+}

@@ -1,0 +1,19 @@
+{
+  "id": "foam-roller-it-band-roll",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "abductors"
+    ],
+    "secondary": [
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "burpee-broad-jump",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "chest",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "front-delts",
+      "hamstrings",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "burpee"
+}

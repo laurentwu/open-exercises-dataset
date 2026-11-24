@@ -1,0 +1,21 @@
+{
+  "id": "pistol-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "calves"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

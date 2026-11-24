@@ -1,0 +1,23 @@
+{
+  "id": "suspension-y-fly",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "suspension-trainer"
+  ],
+  "muscles": {
+    "primary": [
+      "rear-delts",
+      "traps",
+      "upper-back"
+    ],
+    "secondary": [
+      "abs",
+      "side-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

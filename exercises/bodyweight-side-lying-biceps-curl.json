@@ -1,0 +1,18 @@
+{
+  "id": "bodyweight-side-lying-biceps-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "biceps"
+    ],
+    "secondary": [
+      "forearms"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

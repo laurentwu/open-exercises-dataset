@@ -1,0 +1,9 @@
+{
+  "title": "Open Exercises Dataset",
+  "author": "Laurent Wu",
+  "repository": "https://github.com/laurentwu/open-exercises-dataset",
+  "license": "CC-BY-4.0",
+  "attribution": "Open Exercises Dataset (https://github.com/laurentwu/open-exercises-dataset) by Laurent Wu, licensed under CC BY 4.0 (https://creativecommons.org/licenses/by/4.0/)",
+  "sourceLanguage": "en",
+  "languages": ["en", "zh-Hans"]
+}

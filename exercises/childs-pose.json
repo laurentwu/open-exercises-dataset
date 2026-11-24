@@ -1,0 +1,19 @@
+{
+  "id": "childs-pose",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "lats",
+      "lower-back"
+    ],
+    "secondary": [
+      "glutes",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

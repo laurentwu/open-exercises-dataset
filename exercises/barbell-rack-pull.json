@@ -1,0 +1,26 @@
+{
+  "id": "barbell-rack-pull",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "lower-back"
+    ],
+    "secondary": [
+      "forearms",
+      "hamstrings",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "barbell-deadlift"
+}

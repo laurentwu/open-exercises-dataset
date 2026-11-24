@@ -1,0 +1,24 @@
+{
+  "id": "cable-upright-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "cable-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "side-delts",
+      "traps"
+    ],
+    "secondary": [
+      "biceps",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

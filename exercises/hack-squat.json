@@ -1,0 +1,23 @@
+{
+  "id": "hack-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [
+    "machine"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,24 @@
+{
+  "id": "dumbbell-seated-lateral-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "bench",
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "side-delts"
+    ],
+    "secondary": [
+      "front-delts",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-lateral-raise"
+}

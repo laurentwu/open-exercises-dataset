@@ -1,0 +1,22 @@
+{
+  "id": "burpee",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "chest",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abs",
+      "calves",
+      "front-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

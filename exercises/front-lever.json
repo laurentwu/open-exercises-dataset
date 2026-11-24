@@ -1,0 +1,23 @@
+{
+  "id": "front-lever",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "lats"
+    ],
+    "secondary": [
+      "glutes",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

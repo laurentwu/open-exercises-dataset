@@ -1,0 +1,17 @@
+{
+  "id": "sleeper-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "rotator-cuff"
+    ],
+    "secondary": [
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

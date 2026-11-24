@@ -1,0 +1,19 @@
+{
+  "id": "bird-dog",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-rotation",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

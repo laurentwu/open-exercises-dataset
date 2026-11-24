@@ -1,0 +1,21 @@
+{
+  "id": "sprint",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hamstrings",
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "distance",
+    "duration"
+  ]
+}

@@ -1,0 +1,23 @@
+{
+  "id": "band-single-arm-rotational-chest-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "horizontal-push",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "chest"
+    ],
+    "secondary": [
+      "front-delts",
+      "obliques",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

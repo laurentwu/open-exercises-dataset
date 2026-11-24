@@ -1,0 +1,15 @@
+{
+  "id": "quadruped-quad-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "id": "side-to-side-leg-swing",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abductors",
+      "adductors"
+    ],
+    "secondary": [
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,26 @@
+{
+  "id": "sandbag-bear-hug-carry",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "carry",
+  "laterality": "bilateral",
+  "equipment": [
+    "sandbag"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "upper-back"
+    ],
+    "secondary": [
+      "biceps",
+      "forearms",
+      "glutes",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

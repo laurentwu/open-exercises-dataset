@@ -1,0 +1,23 @@
+{
+  "id": "barbell-rollout",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "lats",
+      "obliques",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

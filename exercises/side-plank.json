@@ -1,0 +1,20 @@
+{
+  "id": "side-plank",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abductors",
+      "abs"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

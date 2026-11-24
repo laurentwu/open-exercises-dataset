@@ -1,0 +1,25 @@
+{
+  "id": "barbell-hang-high-pull",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads",
+      "traps"
+    ],
+    "secondary": [
+      "front-delts",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

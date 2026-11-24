@@ -1,0 +1,23 @@
+{
+  "id": "foam-roller-body-saw",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "lats",
+      "obliques",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "worlds-greatest-stretch",
+  "category": "stretching",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "adductors",
+      "hip-flexors"
+    ],
+    "secondary": [
+      "glutes",
+      "hamstrings",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

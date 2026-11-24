@@ -1,0 +1,20 @@
+{
+  "id": "wall-sit",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

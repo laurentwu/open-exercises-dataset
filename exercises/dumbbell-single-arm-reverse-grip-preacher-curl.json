@@ -1,0 +1,22 @@
+{
+  "id": "dumbbell-single-arm-reverse-grip-preacher-curl",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "dumbbell",
+    "preacher-bench"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps",
+      "forearms"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-preacher-curl"
+}

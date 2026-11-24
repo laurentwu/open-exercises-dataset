@@ -1,0 +1,17 @@
+{
+  "id": "cross-body-shoulder-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "rear-delts"
+    ],
+    "secondary": [
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

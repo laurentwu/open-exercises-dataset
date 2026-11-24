@@ -1,0 +1,19 @@
+{
+  "id": "butt-kick",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves",
+      "hamstrings"
+    ],
+    "secondary": [
+      "glutes",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

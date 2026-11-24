@@ -1,0 +1,23 @@
+{
+  "id": "ski-erg",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [
+    "ski-erg"
+  ],
+  "muscles": {
+    "primary": [
+      "abs",
+      "lats"
+    ],
+    "secondary": [
+      "glutes",
+      "quads",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "distance",
+    "duration"
+  ]
+}

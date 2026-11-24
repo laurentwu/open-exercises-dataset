@@ -1,0 +1,22 @@
+{
+  "id": "backward-sled-drag",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "alternating",
+  "equipment": [
+    "sled"
+  ],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "distance"
+  ]
+}

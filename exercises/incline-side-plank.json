@@ -1,0 +1,23 @@
+{
+  "id": "incline-side-plank",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abductors",
+      "abs"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ],
+  "variantOf": "side-plank"
+}

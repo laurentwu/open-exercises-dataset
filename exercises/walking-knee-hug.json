@@ -1,0 +1,18 @@
+{
+  "id": "walking-knee-hug",
+  "category": "stretching",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes"
+    ],
+    "secondary": [
+      "hip-flexors",
+      "calves"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

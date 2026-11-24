@@ -1,0 +1,22 @@
+{
+  "id": "band-standing-rotational-crunch",
+  "category": "strength",
+  "mechanic": "isolation",
+  "pattern": "trunk-rotation",
+  "laterality": "alternating",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "band-standing-crunch"
+}

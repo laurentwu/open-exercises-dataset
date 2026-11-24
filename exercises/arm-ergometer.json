@@ -1,0 +1,23 @@
+{
+  "id": "arm-ergometer",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [
+    "arm-ergometer"
+  ],
+  "muscles": {
+    "primary": [
+      "biceps",
+      "front-delts",
+      "triceps"
+    ],
+    "secondary": [
+      "chest",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "distance",
+    "duration"
+  ]
+}

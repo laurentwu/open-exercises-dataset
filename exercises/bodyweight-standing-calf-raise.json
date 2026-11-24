@@ -1,0 +1,16 @@
+{
+  "id": "bodyweight-standing-calf-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

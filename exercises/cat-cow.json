@@ -1,0 +1,19 @@
+{
+  "id": "cat-cow",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "lower-back",
+      "upper-back"
+    ],
+    "secondary": [
+      "abs",
+      "neck"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

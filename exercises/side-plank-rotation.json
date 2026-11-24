@@ -1,0 +1,21 @@
+{
+  "id": "side-plank-rotation",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-rotation",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs",
+      "side-delts"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "side-plank"
+}

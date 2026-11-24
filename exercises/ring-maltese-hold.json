@@ -1,0 +1,24 @@
+{
+  "id": "ring-maltese-hold",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "gymnastic-rings"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "front-delts"
+    ],
+    "secondary": [
+      "abs",
+      "biceps",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

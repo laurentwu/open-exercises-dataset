@@ -1,0 +1,23 @@
+{
+  "id": "ring-support-hold",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [
+    "gymnastic-rings"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "front-delts",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

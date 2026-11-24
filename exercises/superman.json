@@ -1,0 +1,20 @@
+{
+  "id": "superman",
+  "category": "strength",
+  "mechanic": "compound",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "lower-back"
+    ],
+    "secondary": [
+      "hamstrings",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

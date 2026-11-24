@@ -1,0 +1,24 @@
+{
+  "id": "ab-wheel-standing-rollout",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [
+    "ab-wheel"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "lats",
+      "obliques",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "ab-wheel-rollout"
+}

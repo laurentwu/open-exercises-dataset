@@ -1,0 +1,25 @@
+{
+  "id": "muscle-up",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "bilateral",
+  "equipment": [
+    "pull-up-bar"
+  ],
+  "muscles": {
+    "primary": [
+      "lats",
+      "triceps"
+    ],
+    "secondary": [
+      "biceps",
+      "chest",
+      "front-delts",
+      "upper-back"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

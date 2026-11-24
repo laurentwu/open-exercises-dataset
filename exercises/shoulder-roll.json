@@ -1,0 +1,19 @@
+{
+  "id": "shoulder-roll",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "traps",
+      "upper-back"
+    ],
+    "secondary": [
+      "front-delts",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

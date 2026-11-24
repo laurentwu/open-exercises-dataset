@@ -1,0 +1,19 @@
+{
+  "id": "band-leg-extension",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "leg-extension"
+}

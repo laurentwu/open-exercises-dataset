@@ -1,0 +1,22 @@
+{
+  "id": "frog-stand",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-extension",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abs",
+      "front-delts"
+    ],
+    "secondary": [
+      "chest",
+      "forearms",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,27 @@
+{
+  "id": "kettlebell-single-arm-clean-and-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "hinge",
+  "laterality": "unilateral",
+  "equipment": [
+    "kettlebell"
+  ],
+  "muscles": {
+    "primary": [
+      "front-delts",
+      "glutes",
+      "hamstrings"
+    ],
+    "secondary": [
+      "abs",
+      "quads",
+      "side-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

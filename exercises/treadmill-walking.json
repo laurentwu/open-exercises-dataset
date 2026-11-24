@@ -1,0 +1,24 @@
+{
+  "id": "treadmill-walking",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [
+    "treadmill"
+  ],
+  "muscles": {
+    "primary": [
+      "calves",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "hamstrings",
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "distance",
+    "duration"
+  ],
+  "variantOf": "walking"
+}

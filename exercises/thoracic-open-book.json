@@ -1,0 +1,19 @@
+{
+  "id": "thoracic-open-book",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "chest",
+      "upper-back"
+    ],
+    "secondary": [
+      "front-delts",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

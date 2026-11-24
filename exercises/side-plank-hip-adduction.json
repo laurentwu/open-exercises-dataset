@@ -1,0 +1,21 @@
+{
+  "id": "side-plank-hip-adduction",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "adductors",
+      "obliques"
+    ],
+    "secondary": [
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "side-plank"
+}

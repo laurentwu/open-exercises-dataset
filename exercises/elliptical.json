@@ -1,0 +1,22 @@
+{
+  "id": "elliptical",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [
+    "elliptical"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "calves",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "distance",
+    "duration"
+  ]
+}

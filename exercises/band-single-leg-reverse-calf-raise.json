@@ -1,0 +1,18 @@
+{
+  "id": "band-single-leg-reverse-calf-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "shins"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

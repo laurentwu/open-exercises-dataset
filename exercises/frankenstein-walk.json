@@ -1,0 +1,18 @@
+{
+  "id": "frankenstein-walk",
+  "category": "stretching",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hamstrings"
+    ],
+    "secondary": [
+      "hip-flexors",
+      "quads"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

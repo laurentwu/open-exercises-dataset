@@ -1,0 +1,23 @@
+{
+  "id": "suspension-pike",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "trunk-flexion",
+  "laterality": "bilateral",
+  "equipment": [
+    "suspension-trainer"
+  ],
+  "muscles": {
+    "primary": [
+      "abs"
+    ],
+    "secondary": [
+      "front-delts",
+      "hip-flexors",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

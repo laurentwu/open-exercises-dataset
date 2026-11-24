@@ -1,0 +1,16 @@
+{
+  "id": "heel-slide",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hamstrings",
+      "quads"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

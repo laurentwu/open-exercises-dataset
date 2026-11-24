@@ -1,0 +1,19 @@
+{
+  "id": "quick-feet",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves",
+      "quads"
+    ],
+    "secondary": [
+      "glutes",
+      "hip-flexors"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

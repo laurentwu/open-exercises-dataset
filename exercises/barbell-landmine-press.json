@@ -1,0 +1,24 @@
+{
+  "id": "barbell-landmine-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "bilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "front-delts"
+    ],
+    "secondary": [
+      "serratus",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

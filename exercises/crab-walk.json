@@ -1,0 +1,21 @@
+{
+  "id": "crab-walk",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "triceps"
+    ],
+    "secondary": [
+      "abs",
+      "front-delts",
+      "hamstrings",
+      "rear-delts"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

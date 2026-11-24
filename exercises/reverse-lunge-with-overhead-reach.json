@@ -1,0 +1,20 @@
+{
+  "id": "reverse-lunge-with-overhead-reach",
+  "category": "stretching",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "hip-flexors",
+      "quads"
+    ],
+    "secondary": [
+      "front-delts",
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ],
+  "variantOf": "reverse-lunge"
+}

@@ -1,0 +1,23 @@
+{
+  "id": "copenhagen-plank",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [
+    "bench"
+  ],
+  "muscles": {
+    "primary": [
+      "adductors"
+    ],
+    "secondary": [
+      "glutes",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ],
+  "variantOf": "side-plank"
+}

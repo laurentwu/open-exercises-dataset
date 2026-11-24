@@ -1,0 +1,16 @@
+{
+  "id": "scapular-push-up",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "serratus"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "reps"
+  ]
+}

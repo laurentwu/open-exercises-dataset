@@ -1,0 +1,22 @@
+{
+  "id": "medicine-ball-rotational-throw",
+  "category": "plyometrics",
+  "laterality": "unilateral",
+  "equipment": [
+    "medicine-ball"
+  ],
+  "muscles": {
+    "primary": [
+      "obliques"
+    ],
+    "secondary": [
+      "abs",
+      "front-delts",
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

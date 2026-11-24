@@ -1,0 +1,20 @@
+{
+  "id": "a-skip",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "calves",
+      "hip-flexors",
+      "quads"
+    ],
+    "secondary": [
+      "glutes",
+      "hamstrings"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

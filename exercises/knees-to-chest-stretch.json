@@ -1,0 +1,16 @@
+{
+  "id": "knees-to-chest-stretch",
+  "category": "stretching",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "lower-back"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "lateral-shuffle",
+  "category": "cardio",
+  "laterality": "alternating",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abductors",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors",
+      "calves"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

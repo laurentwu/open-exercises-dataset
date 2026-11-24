@@ -1,0 +1,25 @@
+{
+  "name": "open-exercises-dataset",
+  "version": "0.1.0",
+  "private": true,
+  "type": "module",
+  "license": "CC-BY-4.0 AND MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/laurentwu/open-exercises-dataset.git"
+  },
+  "homepage": "https://laurentwu.github.io/open-exercises-dataset/",
+  "scripts": {
+    "validate": "node tools/validate.mjs",
+    "build": "node tools/build.mjs dist",
+    "test": "node --test tools/*.test.mjs",
+    "check": "npm run validate && npm test",
+    "serve": "npm run build && node tools/serve.mjs dist"
+  },
+  "engines": {
+    "node": ">=24"
+  },
+  "devDependencies": {
+    "ajv": "^8.20.0"
+  }
+}

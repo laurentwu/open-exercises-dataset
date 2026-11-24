@@ -1,0 +1,17 @@
+{
+  "id": "foam-roller-adductor-roll",
+  "category": "mobility",
+  "laterality": "unilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "adductors"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

@@ -1,0 +1,25 @@
+{
+  "id": "dumbbell-single-arm-upright-row",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-pull",
+  "laterality": "unilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "side-delts",
+      "traps"
+    ],
+    "secondary": [
+      "biceps",
+      "front-delts"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "dumbbell-upright-row"
+}

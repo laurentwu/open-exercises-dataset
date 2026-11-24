@@ -1,0 +1,18 @@
+{
+  "id": "standing-it-band-stretch",
+  "category": "stretching",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abductors"
+    ],
+    "secondary": [
+      "glutes",
+      "obliques"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

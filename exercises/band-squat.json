@@ -1,0 +1,23 @@
+{
+  "id": "band-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abductors",
+      "adductors"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

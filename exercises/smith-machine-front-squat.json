@@ -1,0 +1,23 @@
+{
+  "id": "smith-machine-front-squat",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "squat",
+  "laterality": "bilateral",
+  "equipment": [
+    "smith-machine"
+  ],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "adductors"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "id": "foam-roller-quad-roll",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [
+    "foam-roller"
+  ],
+  "muscles": {
+    "primary": [
+      "quads"
+    ],
+    "secondary": []
+  },
+  "metrics": [
+    "duration"
+  ]
+}

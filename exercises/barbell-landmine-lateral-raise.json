@@ -1,0 +1,22 @@
+{
+  "id": "barbell-landmine-lateral-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "unilateral",
+  "equipment": [
+    "barbell"
+  ],
+  "muscles": {
+    "primary": [
+      "side-delts"
+    ],
+    "secondary": [
+      "front-delts",
+      "traps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "side-plank-hip-abduction",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "anti-lateral-flexion",
+  "laterality": "unilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "abductors",
+      "obliques"
+    ],
+    "secondary": [
+      "abs",
+      "glutes"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ],
+  "variantOf": "side-plank"
+}

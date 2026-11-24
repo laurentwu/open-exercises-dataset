@@ -1,0 +1,25 @@
+{
+  "id": "dumbbell-burpee",
+  "category": "cardio",
+  "laterality": "bilateral",
+  "equipment": [
+    "dumbbell"
+  ],
+  "muscles": {
+    "primary": [
+      "chest",
+      "glutes",
+      "quads"
+    ],
+    "secondary": [
+      "abs",
+      "front-delts",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "weight",
+    "reps"
+  ],
+  "variantOf": "burpee"
+}

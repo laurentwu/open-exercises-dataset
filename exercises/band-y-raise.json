@@ -1,0 +1,22 @@
+{
+  "id": "band-y-raise",
+  "category": "strength",
+  "mechanic": "isolation",
+  "laterality": "bilateral",
+  "equipment": [
+    "resistance-band"
+  ],
+  "muscles": {
+    "primary": [
+      "traps"
+    ],
+    "secondary": [
+      "rear-delts",
+      "rotator-cuff",
+      "serratus"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}

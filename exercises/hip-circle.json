@@ -1,0 +1,20 @@
+{
+  "id": "hip-circle",
+  "category": "mobility",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "glutes",
+      "hip-flexors"
+    ],
+    "secondary": [
+      "abductors",
+      "adductors",
+      "lower-back"
+    ]
+  },
+  "metrics": [
+    "duration"
+  ]
+}

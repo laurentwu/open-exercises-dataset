@@ -1,0 +1,21 @@
+{
+  "id": "stalder-press",
+  "category": "strength",
+  "mechanic": "compound",
+  "pattern": "vertical-push",
+  "laterality": "bilateral",
+  "equipment": [],
+  "muscles": {
+    "primary": [
+      "front-delts"
+    ],
+    "secondary": [
+      "hip-flexors",
+      "traps",
+      "triceps"
+    ]
+  },
+  "metrics": [
+    "reps"
+  ]
+}
