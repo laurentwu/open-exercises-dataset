@@ -18,8 +18,8 @@ export function buildData(root) {
   const { meta, taxonomy, texts } = data;
   const version = readJson(join(root, "package.json")).version;
   const ids = [...data.exercises.keys()].sort();
-  const mediaIds = new Set(data.media.map((f) => f.replace(/\.gif$/, "")));
-  const media = (id) => (mediaIds.has(id) ? `media/${id}.gif` : null);
+  const mediaPaths = new Map(data.media.map((file) => [file.replace(/\.(gif|webp)$/, ""), `media/${file}`]));
+  const media = (id) => mediaPaths.get(id) ?? null;
   const byLanguage = {};
   for (const lang of meta.languages) {
     byLanguage[lang] = ids.map((id) => ({ ...facts(data.exercises.get(id), taxonomy), ...text(texts[lang].get(id)), media: media(id) }));
@@ -43,7 +43,7 @@ export function buildData(root) {
       taxonomy: "data/taxonomy.json",
       languages: Object.fromEntries(meta.languages.map((lang) => [lang, `data/${lang}.json`])),
       exercise: "data/exercises/{id}.json",
-      media: "media/{id}.gif",
+      media: "media/{id}.{ext}",
     },
   };
   return { index, all, byLanguage, taxonomy: { ...taxonomy, labels: data.labels }, media: data.media };

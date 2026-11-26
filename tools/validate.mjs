@@ -127,15 +127,24 @@ function checkTexts(data, errors) {
 }
 
 function checkMedia(data, errors) {
+  const seen = new Set();
   for (const file of data.media) {
-    const match = file.match(/^(.+)\.gif$/);
+    const match = file.match(/^(.+)\.(gif|webp)$/);
     if (!match) {
-      errors.push(`media/${file}: only <id>.gif files belong here`);
+      errors.push(`media/${file}: only <id>.gif or <id>.webp files belong here`);
       continue;
     }
-    if (!data.exercises.has(match[1])) errors.push(`media/${file}: no exercise with this id`);
-    const head = readFileSync(join(data.root, "media", file)).subarray(0, 6).toString("latin1");
-    if (head !== "GIF89a" && head !== "GIF87a") errors.push(`media/${file}: not a GIF`);
+    const [, id, format] = match;
+    if (seen.has(id)) errors.push(`media/${id}.gif and media/${id}.webp: only one animation is allowed per id`);
+    else seen.add(id);
+    if (!data.exercises.has(id)) errors.push(`media/${file}: no exercise with this id`);
+    const bytes = readFileSync(join(data.root, "media", file));
+    if (format === "gif") {
+      const head = bytes.subarray(0, 6).toString("latin1");
+      if (head !== "GIF89a" && head !== "GIF87a") errors.push(`media/${file}: not a GIF`);
+    } else if (bytes.length < 12 || bytes.toString("latin1", 0, 4) !== "RIFF" || bytes.toString("latin1", 8, 12) !== "WEBP" || bytes.readUInt32LE(4) !== bytes.length - 8) {
+      errors.push(`media/${file}: not a WebP`);
+    }
   }
 }
 

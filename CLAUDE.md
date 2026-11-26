@@ -20,7 +20,7 @@ npm run serve
 - `exercises/<id>.json`: language-neutral facts.
 - `locales/<lang>/exercises/<id>.json`: name, aliases, steps and tips in one language. Language codes follow BCP 47. Translations carry a `source` hash of the English text they came from; `npm run validate` lists the stale ones.
 - `locales/<lang>/taxonomy.json`: labels for every value in taxonomy.json.
-- `media/<id>.gif`: one animation per exercise.
+- `media/<id>.gif` or `media/<id>.webp`: up to one GIF or WebP animation per exercise.
 - `site/`: the static page, copied into dist/ by the build.
 
 ## Rules

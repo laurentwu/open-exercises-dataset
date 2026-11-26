@@ -18,7 +18,7 @@
 | `data/all.json` | 全部动作和所有语言的文字 |
 | `data/exercises/<id>.json` | 单个动作和所有语言的文字 |
 | `data/taxonomy.json` | 每个字段允许的值，以及各语言的显示名 |
-| `media/<id>.gif` | 单个动作的动画 |
+| `media/<id>.gif` 或 `media/<id>.webp` | 单个动作的 GIF 或 WebP 动画 |
 
 GitHub 上的每个 Release 也会附上这些文件的压缩包。
 

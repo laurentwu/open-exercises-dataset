@@ -18,7 +18,7 @@ The website serves ready-made JSON files:
 | `data/all.json` | Every exercise with its text in all languages |
 | `data/exercises/<id>.json` | One exercise with its text in all languages |
 | `data/taxonomy.json` | Every allowed value and its label in each language |
-| `media/<id>.gif` | The animation for one exercise |
+| `media/<id>.gif` or `media/<id>.webp` | The GIF or WebP animation for one exercise |
 
 Each release on GitHub also attaches these files as a zip.
 
@@ -70,7 +70,7 @@ Language codes follow BCP 47. English (`en`) is the source language, and every o
 | `locales/<language>/exercises/<id>.json` | Name, aliases, steps and tips in one language |
 | `locales/<language>/taxonomy.json` | Labels for the taxonomy values |
 | `taxonomy.json` | Allowed values for every field |
-| `media/<id>.gif` | Animations |
+| `media/<id>.gif` or `media/<id>.webp` | GIF or WebP animations |
 | `schema/` | JSON Schema for the files above |
 | `docs/` | Writing guides for each language |
 | `site/` | The website |

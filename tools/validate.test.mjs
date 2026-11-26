@@ -23,6 +23,8 @@ const pushUp = {
 };
 const pushUpEn = { name: "Push-Up", aliases: ["Press-Up"], steps: ["Start in a high plank.", "Lower your chest to the floor and press back up."], tips: ["Keep your body in a straight line."] };
 const pushUpZh = { name: "俯卧撑", aliases: [], steps: ["从高位平板支撑开始。", "胸部下放接近地面，再推起。"], tips: ["身体保持一条直线。"] };
+const webp = Buffer.from("UklGRiQAAABXRUJQVlA4IBgAAAAwAQCdASoCAAIAAgA0JaQAA3AA/vuUAAA=", "base64");
+const animatedWebp = Buffer.from("UklGRsoAAABXRUJQVlA4WAoAAAACAAAAAQAAAQAAQU5JTQYAAAD/////AABBTk1GSgAAAAAAAAAAAAEAAAEAAPQBAAJWUDggMgAAALABAJ0BKgIAAgACADQlmAJ0AQ72nkAAzj91oWJPVVOq5fyNPKxhNJOj+Zvwo+Tr/AAAQU5NRkwAAAAAAAAAAAABAAABAAD0AQAAVlA4IDQAAAC0AQCdASoCAAIAAAA0JZACdAEO+KbQAP7Pgfk/BDpqiY0OGj6I7XFzZEUfo/7v/Ul7AAAA", "base64");
 
 function fixture({ exercises = [pushUp], en = { "push-up": pushUpEn }, zh = { "push-up": { source: sourceHash(pushUpEn), ...pushUpZh } }, media = {} } = {}) {
   const root = mkdtempSync(join(tmpdir(), "oed-"));
@@ -108,12 +110,40 @@ test("two exercises cannot share a name or alias in one language", () => {
   assert.match(problems({ exercises: [pushUp, other], en, zh }), /"Press-Up" is also used by/);
 });
 
-test("media files are GIFs named after an exercise", () => {
-  const out = problems({ media: { "push-up.gif": "GIF89a....", "sit-up.gif": "GIF89a....", "push-up.png": "x", "bad.gif": "PNG" } });
-  assert.doesNotMatch(out, /media\/push-up.gif/);
-  assert.match(out, /media\/sit-up.gif: no exercise with this id/);
-  assert.match(out, /media\/push-up.png: only <id>.gif files belong here/);
-  assert.match(out, /media\/bad.gif: not a GIF/);
+test("media accepts GIF87a, GIF89a and WebP", () => {
+  for (const [file, bytes] of [["push-up.gif", "GIF87a"], ["push-up.gif", "GIF89a"], ["push-up.webp", webp], ["push-up.webp", animatedWebp]]) {
+    assert.equal(problems({ media: { [file]: bytes } }), "");
+  }
+});
+
+test("media files must use a supported name and belong to an exercise", () => {
+  const out = problems({ media: { "sit-up.gif": "GIF89a", "pull-up.webp": webp, "push-up.png": "x" } });
+  assert.match(out, /media\/sit-up\.gif: no exercise with this id/);
+  assert.match(out, /media\/pull-up\.webp: no exercise with this id/);
+  assert.match(out, /media\/push-up\.png: only <id>\.gif or <id>\.webp files belong here/);
+});
+
+test("media rejects invalid GIF and WebP contents", () => {
+  assert.equal(problems({ media: { "push-up.gif": "PNG" } }), "media/push-up.gif: not a GIF");
+  const wrongRiff = Buffer.from(webp);
+  wrongRiff.write("NOPE", 0);
+  const wrongType = Buffer.from(webp);
+  wrongType.write("NOPE", 8);
+  const wrongSize = Buffer.from(webp);
+  wrongSize.writeUInt32LE(webp.length - 7, 4);
+  const bigEndianSize = Buffer.from(webp);
+  bigEndianSize.writeUInt32BE(webp.length - 8, 4);
+  for (const bytes of [Buffer.alloc(0), webp.subarray(0, 3), webp.subarray(0, 11), webp.subarray(0, -1), wrongRiff, wrongType, wrongSize, bigEndianSize]) {
+    assert.equal(problems({ media: { "push-up.webp": bytes } }), "media/push-up.webp: not a WebP");
+  }
+});
+
+test("an exercise cannot have both a GIF and a WebP", () => {
+  const root = fixture({ media: { "push-up.gif": "GIF89a", "push-up.webp": webp } });
+  const errors = validate(root);
+  assert.equal(errors.length, 1);
+  assert.match(errors[0], /media\/push-up\.gif.*media\/push-up\.webp/);
+  assert.throws(() => build(root, join(root, "dist")), /dataset has 1 problems/);
 });
 
 test("title case allows small words and hyphenated parts", () => {
@@ -132,6 +162,7 @@ test("the build writes per-language, full and per-exercise JSON with derived reg
   const index = build(root, out);
   assert.equal(index.count, 1);
   assert.equal(index.repository, JSON.parse(readFileSync(join(repo, "meta.json"), "utf8")).repository);
+  assert.equal(index.files.media, "media/{id}.{ext}");
   const zh = JSON.parse(readFileSync(join(out, "data/zh-Hans.json"), "utf8"));
   assert.deepEqual(zh.exercises[0].regions, ["chest"]);
   assert.equal(zh.exercises[0].name, "俯卧撑");
@@ -142,6 +173,40 @@ test("the build writes per-language, full and per-exercise JSON with derived reg
   const taxonomy = JSON.parse(readFileSync(join(out, "data/taxonomy.json"), "utf8"));
   assert.equal(taxonomy.labels["zh-Hans"].muscles.chest, "胸肌");
   assert.equal(readFileSync(join(out, "media/push-up.gif"), "latin1").slice(0, 6), "GIF89a");
+});
+
+test("the build publishes mixed GIF and WebP paths and copies the media bytes", () => {
+  const knee = { ...pushUp, id: "knee-push-up", variantOf: "push-up" };
+  const kneeEn = { ...pushUpEn, name: "Knee Push-Up", aliases: [] };
+  const en = { "push-up": pushUpEn, "knee-push-up": kneeEn };
+  const zh = {
+    "push-up": { ...pushUpZh, source: sourceHash(pushUpEn) },
+    "knee-push-up": { ...pushUpZh, name: "跪姿俯卧撑", source: sourceHash(kneeEn) },
+  };
+  const root = fixture({ exercises: [pushUp, knee], en, zh, media: { "push-up.webp": animatedWebp, "knee-push-up.gif": "GIF89a...." } });
+  const out = join(root, "dist");
+  build(root, out);
+  const read = (file) => JSON.parse(readFileSync(join(out, "data", file), "utf8"));
+  assert.equal(read("index.json").files.media, "media/{id}.{ext}");
+  for (const file of ["all.json", "en.json", "zh-Hans.json"]) {
+    const paths = Object.fromEntries(read(file).exercises.map(({ id, media }) => [id, media]));
+    assert.deepEqual(paths, { "knee-push-up": "media/knee-push-up.gif", "push-up": "media/push-up.webp" });
+  }
+  assert.equal(read("exercises/push-up.json").media, "media/push-up.webp");
+  assert.equal(read("exercises/knee-push-up.json").media, "media/knee-push-up.gif");
+  assert.deepEqual(readFileSync(join(out, "media/push-up.webp")), animatedWebp);
+  assert.equal(readFileSync(join(out, "media/knee-push-up.gif"), "latin1"), "GIF89a....");
+});
+
+test("the build uses null when an exercise has no animation", () => {
+  const root = fixture();
+  const out = join(root, "dist");
+  build(root, out);
+  const read = (file) => JSON.parse(readFileSync(join(out, "data", file), "utf8"));
+  assert.equal(read("all.json").exercises[0].media, null);
+  assert.equal(read("en.json").exercises[0].media, null);
+  assert.equal(read("zh-Hans.json").exercises[0].media, null);
+  assert.equal(read("exercises/push-up.json").media, null);
 });
 
 test("the credit line names the author and links the repository", () => {
